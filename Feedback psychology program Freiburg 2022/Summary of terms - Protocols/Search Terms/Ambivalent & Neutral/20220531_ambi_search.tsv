@@ -1,0 +1,45 @@
+time	searchRound	searchTerm	superordinate	subordinate_positive	N_positive	mean_positive	sd_positive	subordinate_negative	N_negative	mean_negative	sd_negative	subordinate_neutral	N_neutral	mean_neutral	sd_neutral	subordinate_ambivalent	N_ambivalent	mean_ambivalent	sd_ambivalent
+2022-05-31T10:21:10Z	1	menge an Lernstoff|Initiationsaufwand|Zeitintensiv|Umfang	Arbeitsaufwand		0	NA	NA		0	NA	NA		0	NA	NA	menge an Lernstoff // Umfang // Initiationsaufwand // Zeitintensiv	4	10	0
+2022-05-31T10:24:16Z	2	suche nach Hilfe|auf Nachfrage|breites Angebot	Hilfsbereitschaft		0	NA	NA		0	NA	NA		0	NA	NA	auf Nachfrage // suche nach Hilfe // breites Angebot	3	10	0
+2022-05-31T10:25:20Z	3	Klausuren	Klausuren		0	NA	NA		0	NA	NA		0	NA	NA	Klausurenphasen // geschriebene Klausuren	2	10	0
+2022-05-31T10:27:43Z	4	Konkurrenz|Überflieger|Ehrgeizige	Kompetitivität		0	NA	NA		0	NA	NA		0	NA	NA	Ehrgeizige Kommiliton:innen // Überflieger	2	10	0
+2022-05-31T10:29:11Z	5	Lehrkonzepte|Lehrmethoden|Stundengestaltung	Lehrstil		0	NA	NA		0	NA	NA		0	NA	NA	Stundengestaltung // Lehrkonzepte // Lehrmethoden	3	10	0
+2022-05-31T10:29:57Z	6	vermittlung der inhalte|Vorlesungsstil|Didaktik	Lehrstil		0	NA	NA		0	NA	NA		0	NA	NA	vermittlung der inhalte // Didaktik	2	10	0
+2022-05-31T10:30:40Z	7	"art der wissensvermittlung|Sehr ""Pädagogisch"""	Lehrstil		0	NA	NA		0	NA	NA		0	NA	NA	"art der wissensvermittlung // Sehr ""Pädagogisch"""	2	10	0
+2022-05-31T10:32:24Z	8	selbstinitiierter Druck|Notendominanz	Leistungsdruck		0	NA	NA		0	NA	NA		0	NA	NA	Notendominanz // selbstinitiierter Druck	2	10	0
+2022-05-31T10:33:18Z	9	Lerneffekt|POrüfungsvorbereitung	Lernen		0	NA	NA		0	NA	NA		0	NA	NA	POrüfungsvorbereitung // Lerneffekt	2	10	0
+2022-05-31T10:34:44Z	10	guter Bachelorabschluss|Voraussetzung für Masterplatz	Masterplatzvergabe		0	NA	NA		0	NA	NA		0	NA	NA	guter Bachelorabschluss // Voraussetzung für Masterplatz	2	10	0
+2022-05-31T10:36:28Z	11	Materialien|Literatur und Folien	Materialien		0	NA	NA		0	NA	NA		0	NA	NA	Literatur und Folien // Bereitstellung der Materialien	2	10	0
+2022-05-31T10:37:58Z	12	Methodenfächer|Biologische Psychologie|Statistische Grundlagen	Module		0	NA	NA		0	NA	NA		0	NA	NA	Statistische Grundlagen // Biologische Psychologie // Methodenfächer	3	10	0
+2022-05-31T10:38:57Z	13	NC	NC		0	NA	NA		0	NA	NA		0	NA	NA	NC Bachelor Master	1	10	NA
+2022-05-31T10:40:22Z	14	Mischung Zoom/asynchron	Online-Lehre		0	NA	NA		0	NA	NA		0	NA	NA	Mischung Zoom/asynchron	1	10	NA
+2022-05-31T10:40:55Z	15	Onlineveranstaltungen	Online-Lehre		0	NA	NA		0	NA	NA		0	NA	NA	Onlineveranstaltungen	1	10	NA
+2022-05-31T10:41:46Z	16	Pandemische Lage	Pandemiesituation		0	NA	NA		0	NA	NA		0	NA	NA	Pandemische Lage	1	10	NA
+2022-05-31T10:42:17Z	17	Umgang mit Pandemielehre	Pandemiesituation		0	NA	NA		0	NA	NA		0	NA	NA	Umgang mit Pandemielehre	1	10	NA
+2022-05-31T10:42:49Z	18	bedrückt durch Pandemie	Pandemiesituation		0	NA	NA		0	NA	NA		0	NA	NA	bedrückt durch Pandemie	1	10	NA
+2022-05-31T10:43:54Z	19	Präsenzlehre|Fahrtwege	Präsenzlehre		0	NA	NA		0	NA	NA		0	NA	NA	Fahrtwege	1	10	NA
+2022-05-31T10:44:42Z	20	nicht klausurrelevant	Seminare		0	NA	NA		0	NA	NA		0	NA	NA	nicht klausurrelevant	1	10	NA
+2022-05-31T10:46:17Z	21	Neuer Studiengang	Studiengang Psychotherapie		0	NA	NA		0	NA	NA		0	NA	NA	Neuer Studiengang	1	10	NA
+2022-05-31T10:46:29Z	22	Neuer Studiengang	Studiengang Psychotherapie		0	NA	NA		0	NA	NA		0	NA	NA	Neuer Studiengang	0	NA	NA
+2022-05-31T10:48:13Z	23	Soziale Kontakte knüpfen|Whatsapp Semestergruppe	Vernetzung		0	NA	NA		0	NA	NA		0	NA	NA	Soziale Kontakte knüpfen // Whatsapp Semestergruppe	2	10	0
+2022-05-31T10:48:46Z	24	Vorlesungen	Vorlesungen		0	NA	NA		0	NA	NA		0	NA	NA	Strukturierung d Vorlesungen // Vorlesungen und Seminare	2	10	0
+2022-05-31T10:51:03Z	25	fordernd|Anforderungsanspruch	Anforderungen		0	NA	NA		0	NA	NA		0	NA	NA	fordernd // Anforderungsanspruch	2	10	0
+2022-05-31T10:51:36Z	26	Konzentration	Konzentration		0	NA	NA		0	NA	NA		0	NA	NA	Konzentration // Konzentrationserhalt	2	10	0
+2022-05-31T10:55:08Z	27	leistungsstarke	Kommiliton*innen		0	NA	NA		0	NA	NA		0	NA	NA	leistungsstarke Kommilitonen	1	10	NA
+2022-05-31T11:35:17Z	28	Aufgehoben	Lehrklima		0	NA	NA		0	NA	NA		0	NA	NA	"""Gut Aufgehoben"""	1	10	NA
+2022-05-31T11:35:47Z	29	Ich zu alt?	Alter		0	NA	NA		0	NA	NA		0	NA	NA	Ich zu alt?	1	10	NA
+2022-05-31T11:36:53Z	30	Ansprechpartner	Erreichbarkeit		0	NA	NA		0	NA	NA		0	NA	NA	Ansprechpartner_ambivalent	1	10	NA
+2022-05-31T11:37:20Z	31	Auswendiglernen	Lernen		0	NA	NA		0	NA	NA		0	NA	NA	Auswendiglernen_ambivalent	1	10	NA
+2022-05-31T11:39:24Z	32	Berufsaussicht|zukunft ungewiss	ungewisse Zukunft		0	NA	NA		0	NA	NA		0	NA	NA	zukunft ungewiss // Berufsaussichten_ambivalent	2	10	0
+2022-05-31T11:39:45Z	33	Disziplin;	Disziplin		0	NA	NA		0	NA	NA		0	NA	NA	Disziplin; Kontrolliertheit	1	10	NA
+2022-05-31T11:40:23Z	34	dozentenkontakt	Erreichbarkeit		0	NA	NA		0	NA	NA		0	NA	NA	dozentenkontakt	1	10	NA
+2022-05-31T11:40:53Z	35	Beantwortung	Fragenbeantwortung		0	NA	NA		0	NA	NA		0	NA	NA	Beantwortung von Fragen	1	10	NA
+2022-05-31T11:41:39Z	36	Studentenleben|Spaß	Spaß		0	NA	NA		0	NA	NA		0	NA	NA	Spaß_ambivalent	1	10	NA
+2022-05-31T11:42:00Z	37	Spaß	Freizeit		0	NA	NA		0	NA	NA		0	NA	NA	Spaß_ambivalent	1	10	NA
+2022-05-31T11:42:50Z	38	Interesse an Psychologie	Interesse am Studiengang		0	NA	NA		0	NA	NA		0	NA	NA	Interesse an Psychologie	1	10	NA
+2022-05-31T11:43:30Z	39	Entscheidungstreffung	Mitspracherecht		0	NA	NA		0	NA	NA		0	NA	NA	Entscheidungstreffung	1	10	NA
+2022-05-31T11:44:27Z	40	Umstellung des Studiengangs	neue Prüfungsordnung		0	NA	NA		0	NA	NA		0	NA	NA	Umstellung des Studiengangs	1	10	NA
+2022-05-31T11:44:57Z	41	Studienverlauf anpassen	Studienverlauf		0	NA	NA		0	NA	NA		0	NA	NA	Studienverlauf anpassen	1	10	NA
+2022-05-31T11:45:29Z	42	psychotherapeutische Hilfe SWF	Studierendenwerk		0	NA	NA		0	NA	NA		0	NA	NA	psychotherapeutische Hilfe SWF	1	10	NA
+2022-05-31T11:45:46Z	43	relevanz	Themenrelevanz		0	NA	NA		0	NA	NA		0	NA	NA	relevanz	1	10	NA
+2022-05-31T11:46:24Z	44	sehr individuell	Unterstützung		0	NA	NA		0	NA	NA		0	NA	NA	sehr individuell	1	10	NA

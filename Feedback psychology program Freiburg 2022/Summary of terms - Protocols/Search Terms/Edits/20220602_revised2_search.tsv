@@ -1,0 +1,13 @@
+time	searchRound	searchTerm	superordinate	subordinate_positive	N_positive	mean_positive	sd_positive	subordinate_negative	N_negative	mean_negative	sd_negative	subordinate_neutral	N_neutral	mean_neutral	sd_neutral	subordinate_ambivalent	N_ambivalent	mean_ambivalent	sd_ambivalent
+2022-06-02T10:43:33Z	1	Fachschaft	Fachschaft		0	NA	NA		0	NA	NA	Fachschaft_neutral	1	0	NA	Fachschaft	1	10	NA
+2022-06-02T10:44:00Z	2	Gesundheit	Gesundheit		0	NA	NA		0	NA	NA		0	NA	NA	Gesundheit	1	10	NA
+2022-06-02T10:44:41Z	3	kaum Aussage	Pandemiesituation		0	NA	NA		0	NA	NA	kaum Aussagekräftige Angaben	1	0	NA		0	NA	NA
+2022-06-02T10:45:04Z	4	Klausurverbesserung	Klausurverbesserung		0	NA	NA		0	NA	NA		0	NA	NA	Klausurverbesserung	1	10	NA
+2022-06-02T10:45:50Z	5	leicht für Dozierende|Engagement von	Engagement von Dozent*innen	Engagement von Dozent*innen_positive // leicht für Dozierende	5	1.8	0.45		0	NA	NA		0	NA	NA		0	NA	NA
+2022-06-02T10:46:20Z	6	Leistungsvermögen|Disziplin|Konzentration	Leistungsvermögen		0	NA	NA		0	NA	NA		0	NA	NA	Leistungsvermögen // Disziplin_ambivalent // Konzentration_ambivalent	4	10	0
+2022-06-02T10:46:34Z	7	Nebenjob	Nebenjob		0	NA	NA		0	NA	NA		0	NA	NA	Nebenjob	1	10	NA
+2022-06-02T10:46:58Z	8	Regelstudienzeit|Studienverlauf	Studienverlauf		0	NA	NA		0	NA	NA	Studienverlauf_neutral // Regelstudienzeit_neutral	2	0	0	Regelstudienzeit // Studienverlauf_ambivalent	2	10	0
+2022-06-02T10:47:35Z	9	Studiengangwechsel|Leistungsdruck	Leistungsdruck		0	NA	NA	Leistungsdruck_negative // Studiengangwechsel	20	-2.15	0.75		0	NA	NA		0	NA	NA
+2022-06-02T10:47:57Z	10	Universität|Kommiliton	Kommiliton*innen		0	NA	NA		0	NA	NA	Kommiliton*innen_neutral // Universität	4	0	0		0	NA	NA
+2022-06-02T10:48:31Z	11	vermehrt|Dozent	Dozent*innen		0	NA	NA	Dozent*innen_negative // vermehrt	9	-2.11	0.93		0	NA	NA		0	NA	NA
+2022-06-02T10:49:02Z	12	weitere Faktoren|persönliche Faktoren	außeruniversitäre Faktoren		0	NA	NA		0	NA	NA	persönliche Faktoren_neutral // weitere Faktoren	2	0	0		0	NA	NA

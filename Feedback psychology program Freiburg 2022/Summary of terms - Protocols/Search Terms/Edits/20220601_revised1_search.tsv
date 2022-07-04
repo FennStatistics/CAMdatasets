@@ -1,0 +1,48 @@
+time	searchRound	searchTerm	superordinate	subordinate_positive	N_positive	mean_positive	sd_positive	subordinate_negative	N_negative	mean_negative	sd_negative	subordinate_neutral	N_neutral	mean_neutral	sd_neutral	subordinate_ambivalent	N_ambivalent	mean_ambivalent	sd_ambivalent
+2022-06-01T10:25:37Z	1	Unkritisches|zu viel|Austausch|fehlende Dis|möglichkeiten austausch|epistemische	Austausch		0	NA	NA	"Unkritisches Lernen // Austausch schwierig // fehlende Diskussionen // möglichkeiten austausch diskus // wenig induzierter Austausch // zu viel ""Diskussionen"" // epistemische überzegungen"	7	-2.14	0.69		0	NA	NA		0	NA	NA
+2022-06-01T10:27:41Z	2	Frustration	Frustration		0	NA	NA	Frustration	2	-2	0		0	NA	NA		0	NA	NA
+2022-06-01T10:27:59Z	3	Orientierungsprüfungen	Orientierungsprüfungen		0	NA	NA	Orientierungsprüfungen	2	-2	1.41		0	NA	NA		0	NA	NA
+2022-06-01T10:29:43Z	4	Auslandssemester|Flexi	Flexibilität		0	NA	NA	Flexibilität_negative // Auslandssemester	2	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-06-01T10:31:26Z	5	Prüfungszeit|Isolation	Isolation		0	NA	NA	Isolation_negative // Prüfungszeit starke Isolation	4	-2	0		0	NA	NA		0	NA	NA
+2022-06-01T10:33:06Z	6	soziale Kontakte leiden|Vernetzung	Vernetzung		0	NA	NA	Vernetzung_negative // soziale Kontakte leiden	5	-2	0.71		0	NA	NA		0	NA	NA
+2022-06-01T10:33:47Z	7	Wenig Trans|Lehrstil	Lehrstil		0	NA	NA	Lehrstil_negative // Wenig Transfer	13	-2	0.58		0	NA	NA		0	NA	NA
+2022-06-01T10:35:50Z	8	Lernprobleme|Stress	Stress		0	NA	NA	Stress_negative // Lernprobleme und -stress	17	-2.18	0.95		0	NA	NA		0	NA	NA
+2022-06-01T10:39:16Z	9	Zusammenhalt	Zusammenhalt	Zusammenhalt	2	1.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-06-01T10:39:35Z	10	Einführungsveranstaltungen	Einführungsveranstaltungen	Einführungsveranstaltungen_positive // Einführungsveranstaltungen	8	2.12	0.64		0	NA	NA		0	NA	NA		0	NA	NA
+2022-06-01T10:39:47Z	11	intrin	intrinsische Motivation	intrinsische Motivation	2	2	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-06-01T10:40:51Z	12	gesellschaftlicher Relevanz|Themenre	Themenrelevanz	gesellschaftlicher Relevanz	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-06-01T10:41:41Z	13	gute Einfüh|Einführ	Einführungsveranstaltungen	Einführungsveranstaltungen_positive // gute Einführung	9	2.11	0.6		0	NA	NA		0	NA	NA		0	NA	NA
+2022-06-01T10:42:20Z	14	Allgemeines|Lernen	Lernen	Lernen_positive // Allgemeines Lernklima	10	1.7	0.82		0	NA	NA		0	NA	NA		0	NA	NA
+2022-06-01T10:43:24Z	15	Masterstudiengä|Master Psy	potentieller Masterplatz	Master Psychotherapie // Masterstudiengänge	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-06-01T10:43:48Z	16	soziales Umfeld	soziales Umfeld	soziales Umfeld_positive // soziales Umfeld	8	2.88	0.35		0	NA	NA		0	NA	NA		0	NA	NA
+2022-06-01T10:45:41Z	17	wenig Deadlines|Termine	Deadlines	wenig Deadlines	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-06-01T10:46:01Z	18	Lernbereitschaft	Lernbereitschaft	Lernbereitschaft // Lernbereitschaft_positive	3	2	1		0	NA	NA		0	NA	NA		0	NA	NA
+2022-06-01T10:47:55Z	19	Selbstdisziplin|Leistungsbereit	Leistungsbereitschaft	Leistungsbereitschaft_positive // Selbstdisziplin // Selbstdisziplin / strukturiert	5	2.6	0.89		0	NA	NA	Leistungsbereitschaft // Leistungsbereitschaft_neutral	2	0	0		0	NA	NA
+2022-06-01T10:50:33Z	20	Fachschaft	Fachschaft		0	NA	NA		0	NA	NA	Fachschaft	1	0	NA		0	NA	NA
+2022-06-01T10:52:03Z	21	Regelstudienzeit	Regelstudienzeit		0	NA	NA		0	NA	NA	Regelstudienzeit	1	0	NA		0	NA	NA
+2022-06-01T10:54:41Z	22	Beratungsan	Beratungsangebote		0	NA	NA		0	NA	NA	Beratungsangebote	1	0	NA		0	NA	NA
+2022-06-01T10:55:16Z	23	berufliche Zukunft	Berufsaussichten		0	NA	NA		0	NA	NA	berufliche Zukunft	1	0	NA		0	NA	NA
+2022-06-01T10:57:02Z	24	Gestaltungsfrei	Gestaltungsfreiheit		0	NA	NA		0	NA	NA	Gestaltungsfreiheit	1	0	NA		0	NA	NA
+2022-06-01T10:57:53Z	25	Gruppenpro	Gruppenarbeit		0	NA	NA		0	NA	NA	Gruppenprojekte	1	0	NA		0	NA	NA
+2022-06-01T10:59:39Z	26	Lehre	Lehre		0	NA	NA		0	NA	NA	Lehre	1	0	NA		0	NA	NA
+2022-06-01T10:59:52Z	27	Leistungsbereit	Leistungsbereitschaft		0	NA	NA		0	NA	NA	Leistungsbereitschaft_neutral	2	0	0		0	NA	NA
+2022-06-01T11:00:44Z	28	Leistungsdruck	Leistungsdruck		0	NA	NA		0	NA	NA	Leistungsdruck	1	0	NA		0	NA	NA
+2022-06-01T11:00:56Z	29	Leistungsbere	Leistungsbereitschaft		0	NA	NA		0	NA	NA	Leistungsbereitschaft_neutral	2	0	0		0	NA	NA
+2022-06-01T11:02:22Z	30	personell|Stress	Stress		0	NA	NA		0	NA	NA	personell	1	0	NA		0	NA	NA
+2022-06-01T11:03:21Z	31	persönliche|Persönliche	persönliche Faktoren		0	NA	NA		0	NA	NA	persönliche Faktoren	1	0	NA		0	NA	NA
+2022-06-01T11:04:42Z	32	Prüfungen|Klaus	Klausuren		0	NA	NA		0	NA	NA	Prüfungen	1	0	NA		0	NA	NA
+2022-06-01T11:04:53Z	33	Klausurvorbe	Klausurvorbereitung		0	NA	NA		0	NA	NA	Klausurvorbereitung_neutral	1	0	NA		0	NA	NA
+2022-06-01T11:05:24Z	34	Psychologische	Interesse am Studiengang		0	NA	NA		0	NA	NA	Psychologische Themen	1	0	NA		0	NA	NA
+2022-06-01T11:06:44Z	35	Studentenmeinung	Mitspracherecht		0	NA	NA		0	NA	NA	Studentenmeinung	1	0	NA		0	NA	NA
+2022-06-01T11:07:34Z	36	Prüfungsamt	Prüfungsamt		0	NA	NA		0	NA	NA	Prüfungsamt_neutral // vom Prüfungsamt	2	0	0		0	NA	NA
+2022-06-01T11:08:09Z	37	Studienverlauf	Studienverlauf		0	NA	NA		0	NA	NA	Studienverlaufsplanung	1	0	NA		0	NA	NA
+2022-06-01T11:09:12Z	38	technische	technische Ausstattung		0	NA	NA		0	NA	NA	technische Ausstattung	1	0	NA		0	NA	NA
+2022-06-01T11:09:47Z	39	Transparenz|Kommunik	Kommunikation		0	NA	NA		0	NA	NA	Transparenz	1	0	NA		0	NA	NA
+2022-06-01T11:10:21Z	40	Umgang mit	Umgang mit Pandemiesituation		0	NA	NA		0	NA	NA	Umgang mit Pandemiesituation_neutral // Umgang mit Pandemiesituation	2	0	0		0	NA	NA
+2022-06-01T11:11:49Z	41	vonseiten der	Unterstützung		0	NA	NA		0	NA	NA	vonseiten der Uni	1	0	NA		0	NA	NA
+2022-06-01T11:13:13Z	42	Zeit	Zeitressourcen		0	NA	NA		0	NA	NA	Zeitressourcen	1	0	NA		0	NA	NA
+2022-06-01T11:14:14Z	43	Zusatzange	Zusatzangebote		0	NA	NA		0	NA	NA	Zusatzangebote	1	0	NA		0	NA	NA
+2022-06-01T11:15:44Z	44	Ansprechpartner|Austausch	Austausch		0	NA	NA		0	NA	NA	Austausch_neutral // Ansprechpartner_neutral	2	0	0		0	NA	NA
+2022-06-01T11:18:46Z	45	Präsenzlehre	Präsenzlehre		0	NA	NA		0	NA	NA	Präsenzlehre_neutral	1	0	NA		0	NA	NA
+2022-06-01T11:23:31Z	46	Druck von	Druck von Dozent*innen		0	NA	NA	Druck von Dozierenden_negative	2	-1	0		0	NA	NA		0	NA	NA
+2022-06-01T11:24:40Z	47	Dozierenden	Engagement von Dozent*innen		0	NA	NA	Engagement von Dozierenden_negative	2	-2	0		0	NA	NA		0	NA	NA

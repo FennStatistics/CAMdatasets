@@ -1,0 +1,71 @@
+time	searchRound	searchTerm	superordinate	subordinate_positive	N_positive	mean_positive	sd_positive	subordinate_negative	N_negative	mean_negative	sd_negative	subordinate_neutral	N_neutral	mean_neutral	sd_neutral	subordinate_ambivalent	N_ambivalent	mean_ambivalent	sd_ambivalent
+2022-05-30T11:12:22Z	1	Leistungsdruck	Leistungsdruck	Leistungsdruck von Dozierenden	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:14:05Z	2	strukturieres	Lernbereitschaft	strukturieres Vorgehen	1	1	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:15:46Z	3	Lernen	Lernen	eigentständiges Lernen // effektives Lernen	2	1	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:19:53Z	4	Weiterentwicklung|Auswendiglernen|wiederholen	Lernen	Gut im Auswendiglernen // Ständige Weiterentwicklung // Stoff wiederholen	3	2	1		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:21:53Z	5	nachhaltiges|Strukturiertes	Lernen	nachhaltiges Wissen // Strukturiertes Denken	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:22:56Z	6	Lerngruppe	Lerngruppen	intelligente Lerngruppe // Finden von Lerngruppen	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:24:03Z	7	Literatur	Literatur	Literatur_positive // Quellen/Literatur	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:28:53Z	8	Lehrbücher|Material	Materialien	Online Lehrbücher // Bereitgestellte Materialien // Material, Literatur	3	1.67	0.58		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:30:29Z	9	Bücher|Medien	Materialien	Bücher alle online	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:33:58Z	10	Mensa	Mensa	Mensa_positive // Campus/Mensa	2	2	1.41		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:35:06Z	11	Mitsprache|Mitbestimmung	Mitspracherecht	Mitspracherecht // Mitbestimmungsmöglichkeiten // Mitsprache online/präsenz	4	1.25	0.5		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:37:00Z	12	Module	Module	Priosierung Module	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:38:50Z	13	Motivation|motivie	Motivation	Motivationsfaktor	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:40:51Z	14	allgemein sinnvoll	neue Prüfungsordnung	allgemein sinnvoll	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:41:41Z	15	Ausbildung	neue Prüfungsordnung	Studium ohne Ausbildung	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:43:00Z	16	Online-Angebote	Online-Lehre	Online-Angebote	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:43:22Z	17	Teilnahme bei Krankheit	Online-Lehre	Teilnahme bei Krankheit	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:44:02Z	18	funktioniert nach Plan	Online-Lehre	funktioniert nach Plan	1	1	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:44:16Z	19	VPN online	Online-Lehre	VPN online	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:45:19Z	20	Struktur	Organisation	klare Struktur desStudiegangs // Gute Strukturierung	2	1.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:45:57Z	21	Studienorganisation	Organisation	Studienorganisation	1	1	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:48:53Z	22	Interesse	persönliches Interesse	ernsthaftes Interesse // geteilte Interessen // Interesse sehr groß // Gemeinsames Interesse	4	1.75	0.96		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:51:30Z	23	interessant|spannende	persönliches Interesse	interessantes Fach // spannende neue Infos	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:52:27Z	24	Studium an sich	persönliches Interesse	Studium an sich	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:52:58Z	25	Spannende Konzepte	persönliches Interesse	Spannende Konzepte	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:53:22Z	26	Wichtiges	persönliches Interesse	Interessantes und Wichtiges	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:59:22Z	27	wenn mögl. Präsenz|Präsenzlehre	Präsenzlehre	Präsenzlehre_positive // Präsenzlehrer vs Online // wenn mögl. Präsenz	5	2.4	0.89		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T11:59:46Z	28	Präsenzangebot	Präsenzlehre	Präsenzangebot Statistikvorles	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:00:31Z	29	aufmerksamkeitssteigernd	Präsenzlehre	aufmerksamkeitssteigernd	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:02:27Z	30	Hybrid	Präsenzlehre	Hybrid/ Präsenz	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:07:08Z	31	Präsenzunterricht	Präsenzlehre	Präsenzunterricht	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:08:26Z	32	etw. mehr Präsenz	Präsenzlehre	etw. mehr Präsenz	1	1	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:10:12Z	33	Präsenz-Seminare|Seminare in Präsenz|interessante Präsenzseminare	Präsenz-Seminare	Präsenz-Seminare // interessante Präsenzseminare // Seminare in Präsenz	4	2.75	0.5		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:12:32Z	34	Bildungsniveau	Prestige	empfundenes Bildungsniveau	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:45:48Z	35	Prüfungsamt	Prüfungsamt	Prüfungsamt hilfsbereit // guter Kontakt Prüfungsamt	2	2	1.41		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:48:42Z	36	Prüfungsangelegenheiten|Prüfungsabmeldung	Prüfungsamt	Prüfungsabmeldung // Prüfungsangelegenheiten	2	1	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:50:49Z	37	Seminare|Quiz	Seminare	Seminare_positive // Spannende Seminare	8	2.12	0.64		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:51:48Z	38	Seminaraufbau|Stimmung im Seminar	Seminare	Seminaraufbau // Stimmung im Seminar	2	2	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:53:28Z	39	Starke Referenzgruppe|Bewertung nach Leistung	sozialer Vergleich	Starke Referenzgruppe // Bewertung nach Leistung	2	1.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:54:11Z	40	Verbot des Notenvergleichs	sozialer Vergleich	Verbot des Notenvergleichs	1	1	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:54:38Z	41	bessere Selbsteinschätzung	sozialer Vergleich	bessere Selbsteinschätzung	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:54:59Z	42	Ich bin gut	sozialer Vergleich	Ich bin gut	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:56:06Z	43	Freunde	soziales Umfeld	Familie & Freunde // Freunde, Familie	2	3	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:56:24Z	44	Freundschaften	soziales Umfeld	Freundschaften	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:56:38Z	45	Soziale Unterstützung	soziales Umfeld	Soziale Unterstützung	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T12:56:57Z	46	angenehmes, unterstütze Umfeld	soziales Umfeld	angenehmes, unterstütze Umfeld	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:00:07Z	47	Freiburg|hohe Lebensqualität|Studienort|Erholung	Stadt Freiburg	Studienort // Erholung // Freiburg als Stadt // hohe Lebensqualität	4	1.75	0.96		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:06:07Z	48	Studierende|Student:innen	Studierende	Studierende untereinander	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:06:32Z	49	Student: innen	Studierende	Student: innen	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:07:52Z	50	Weiterbildung|differenzierte Darstellung	Studiumsinhalt	differenzierte Darstellung // Weiterbildung	2	3	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:09:22Z	51	Inhalt|Vertrauen auf Richtigkeit	Studiumsinhalt	Vertrauen auf Richtigkeit // Inhalte drittes Semester // Zugänglichkeit Inhalte	3	2	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:10:03Z	52	Themenfelder|Studieninhalte	Studiumsinhalt	Themenfelder // Studieninhalte	2	2	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:11:13Z	53	Themenauswahl|inhaltlicher Mehrwert	Studiumsinhalt	Themenauswahl // inhaltlicher Mehrwert	2	1	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:12:37Z	54	gute Grundlagen|Interessante Themen	Studiumsinhalt	Interessante Themen // gute Grundlagen	2	1	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:15:03Z	55	Tutor	Tutor*innen	Geeignete Tutoren // Tutoren & Tutorate // Kontakt Tutor*innen // Tutoren hilfsbereit // TutorInnen // Unterstützung von Tutoren	6	2.5	0.55		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:15:33Z	56	Danke an Fabian	Tutor*innen	Danke an Fabian!	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:16:00Z	57	Tutorate	Tutorate	Statistik Tutorate // gute Tutorate	3	2.33	0.58		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:16:23Z	58	Lernschwierigkeiten	Tutorate	Lernschwierigkeiten lösen	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:19:10Z	59	Fairness untereinander|Interaktiv-unterstützend|respektvoll|wohlwollend	Umgang	Interaktiv-unterstützend // sehr wohlwollend // wohlwollender Umgang // respektvoll // Fairness untereinander	5	2.2	0.45		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:20:38Z	60	Wertschätzung|sehr einfühlsam	Umgang	Wertschätzung & Respekt // sehr einfühlsam	2	3	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:21:35Z	61	kein fremdinitiierter Druck	Umgang	kein fremdinitiierter Druck	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:24:09Z	62	Coronabedingte Umstellung|hybride Konzepte|Regelung bei Quarantänefall|synchrone Lösungen|kreative Lösungen	Umgang mit Pandemiesituation	kreative Lösungen // asynchrone/synchrone Lösungen // hybride Konzepte // Regelung bei Quarantänefall // Coronabedingte Umstellung	5	1.4	0.55		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:25:35Z	63	Unterstützung	Unterstützung	Unterstützungsangebote der Uni // Unterstützungsangebote	2	1.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:29:40Z	64	Argumentative Fähigkeiten|Kritisches Reflexionsvermögen	vermittelte Kompetenzen	Argumentative Fähigkeiten // Kritisches Reflexionsvermögen	2	2	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:29:57Z	65	Vermittelte Kompetenzen	vermittelte Kompetenzen	Vermittelte Kompetenzen	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:31:28Z	66	Vernetzung|mehr Verbindungen|Studierende 3 Semester|Kontakte	Vernetzung	mehr Verbindungen // gute Vernetzung // Studierende 3 Semester // soziale Vernetzung // Kontakte knüpfen	5	2	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:32:36Z	67	Untereinander|WhatsApp Gruppe|Studenten höherer Semester	Vernetzung	Studenten höherer Semester // Untereinander	2	1.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:34:45Z	68	WhatsApp-Gruppe|Kontakt Studierende|gute Vernetzung	Vernetzung	WhatsApp-Gruppe // Kontakt Studierende	2	2	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:38:56Z	69	Gefühl in Vorlesung|Gut Verständliche VL	Vorlesungen	Gut Verständliche VL // Gefühl in Vorlesung	2	2	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-30T13:40:19Z	70	Forschung|Wissenschaftlichkeit	Wissenschaftlichkeit	Wissenschaftlichkeit_positive // Forschung	2	1.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA

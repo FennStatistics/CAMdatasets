@@ -1,0 +1,41 @@
+time	searchRound	stringDistance	superordinate	subordinate_positive	N_positive	mean_positive	sd_positive	subordinate_negative	N_negative	mean_negative	sd_negative	subordinate_neutral	N_neutral	mean_neutral	sd_neutral	subordinate_ambivalent	N_ambivalent	mean_ambivalent	sd_ambivalent
+2022-05-26T13:14:50Z	1	4	Institut	PsychoBib	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:16:02Z	2	4	Einführungsveranstaltungen	Leitung	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:17:00Z	3	4	Studierendenwerk	Studierendenwerk	1	1	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:17:37Z	4	4	Prüfungsangst		0	NA	NA	Prüfungsangst	2	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-05-26T13:18:47Z	5	4	Präsenzlehre	Präsenz	3	2.33	1.15		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:19:02Z	6	4	Dozent*innen	Dozierende	8	1.38	0.52	Dozierende	1	-2	NA	Dozierende	1	0	NA	Dozierende	1	10	NA
+2022-05-26T13:20:08Z	7	4	Druck		0	NA	NA	Druck	1	-2	NA	Druck	1	0	NA		0	NA	NA
+2022-05-26T13:20:49Z	8	4	Spaß	Spaß	1	1	NA		0	NA	NA		0	NA	NA	Spaß	1	10	NA
+2022-05-26T13:21:26Z	9	4	Unterstützung 	Persönliche Ebene	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:22:37Z	10	4	Pandemiesituation		0	NA	NA	Corona	5	-3	0	Corona	2	0	0		0	NA	NA
+2022-05-26T13:22:53Z	11	4	Kommiliton*innen	Kommiliton*innen	4	2.25	0.96		0	NA	NA	mit Kommiliton*innen	1	0	NA		0	NA	NA
+2022-05-26T13:26:12Z	12	4	Berufsaussichten	Beruf	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:26:37Z	13	4	Prestige 	Image des Studiums	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:27:15Z	14	4	Folien		0	NA	NA	Foliensätze	1	-1	NA	Folien etc	1	0	NA		0	NA	NA
+2022-05-26T13:29:02Z	15	4	Druck durch Dozent*innen		0	NA	NA		0	NA	NA		0	NA	NA	durch Dozierende	1	10	NA
+2022-05-26T13:31:26Z	16	4	Freizeit	Freizeit	1	2	NA		0	NA	NA	Freizeit	1	0	NA		0	NA	NA
+2022-05-26T13:31:59Z	17	4	Klausuren		0	NA	NA	Klausuren	1	-2	NA		0	NA	NA	Klausuren	2	10	0
+2022-05-26T13:32:53Z	18	4	Institut	Lehrräume	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:34:17Z	19	4	Online-Lehre		0	NA	NA		0	NA	NA		0	NA	NA	Online	1	10	NA
+2022-05-26T13:35:01Z	20	4	asynchrone Lehre	Videos	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:35:49Z	21	4	Stress		0	NA	NA	Viel Stress	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:36:09Z	22	4	Engagement	Engagement // engagiert	2	2	0		0	NA	NA		0	NA	NA	Engagement	1	10	NA
+2022-05-26T13:36:45Z	23	4	Anforderungen		0	NA	NA	Große Anforderungen	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:37:32Z	24	4	Berufsaussichten	Chancen	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:37:40Z	25	4	Dozent*innen	Professoren	1	2	NA		0	NA	NA	Professor:innen	1	0	NA		0	NA	NA
+2022-05-26T13:38:09Z	26	4	Kommiliton*innen	Von Komiliton*innen	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:40:12Z	27	4	Überforderung		0	NA	NA	Menge	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:40:38Z	28	4	Folien	Gute Folien	1	2	NA	viele Folien	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:40:53Z	29	4	Kommiliton*innen	Nette Kommiliton*innen	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:41:37Z	30	4	Bibliothek	Bibliothek	1	2	NA		0	NA	NA	Unibibliothek	1	0	NA		0	NA	NA
+2022-05-26T13:42:40Z	31	4	Geld		0	NA	NA	Geld	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:43:11Z	32	4	Leistungsdruck	regt an	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:43:40Z	33	4	Aufwand		0	NA	NA	lernaufwand // mehr Aufwand	2	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-05-26T13:44:16Z	34	4	Aufwand		0	NA	NA	zu hoch	1	-2	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:44:59Z	35	4	Fachschaft	offen	1	1	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:45:23Z	36	4	Abwechslung	Vielfalt // vielfältig	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:45:51Z	37	4	persönliches Interesse	Interesse // interessant	3	2.67	0.58		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:46:42Z	38	4	Dozent*innen	Dozenten sehr nett	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-26T13:46:59Z	39	4	Lernen	Lernstil	1	2	NA		0	NA	NA	Lernklima	1	0	NA		0	NA	NA
+2022-05-26T13:49:34Z	40	4	Studierende	Studierende // Studierende Uni	2	1.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA

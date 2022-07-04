@@ -1,0 +1,99 @@
+time	searchRound	stringDistance	superordinate	subordinate_positive	N_positive	mean_positive	sd_positive	subordinate_negative	N_negative	mean_negative	sd_negative	subordinate_neutral	N_neutral	mean_neutral	sd_neutral	subordinate_ambivalent	N_ambivalent	mean_ambivalent	sd_ambivalent
+2022-05-27T09:32:00Z	1	5	empfundener Leistungsdruck		0	NA	NA	empfundener Leistungsdruck_negative	16	-2.19	0.83	empfundener Leistungsdruck_neutral	45	0	0		0	NA	NA
+2022-05-27T09:32:02Z	2	5	allgemeines Lehrklima		0	NA	NA	allgemeines Lehrklima_negative	1	-1	NA	allgemeines Lehrklima_neutral	48	0	0		0	NA	NA
+2022-05-27T09:32:03Z	3	5	empfundene Unterstützung		0	NA	NA	empfundene Unterstützung_negative	2	-1	0	empfundene Unterstützung_neutral	51	0	0		0	NA	NA
+2022-05-27T09:32:09Z	4	5	NC		0	NA	NA		0	NA	NA		0	NA	NA	NC_ambivalent	2	10	0
+2022-05-27T09:32:36Z	5	5	Austausch	Austausch	2	2	0		0	NA	NA	Austausch	1	0	NA		0	NA	NA
+2022-05-27T09:33:01Z	6	5	Hilfsbereitschaft	Hilfsbereitschaft	5	2.2	1.1		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:34:07Z	7	5	Eigenverantwortung		0	NA	NA	Zeitmanagement	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:34:10Z	8	5	empfundene Unterstützung	empfundene Unterstützung_positive	6	1.17	0.41	empfundene Unterstützung_negative	2	-1	0		0	NA	NA		0	NA	NA
+2022-05-27T09:34:22Z	9	5	Praktika	Praktika_positive	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:35:06Z	10	5	Lernmotivation	Lernmotivation_positive	2	1.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:35:59Z	11	5	Dozent*innen	Bemühung	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:37:02Z	12	5	Geld		0	NA	NA	Geld_negative	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:37:06Z	13	5	Seminare	Seminare_positive	7	2.14	0.69	Seminare_negative	2	-1	0		0	NA	NA		0	NA	NA
+2022-05-27T09:38:13Z	14	5	Fremdbestimmtheit		0	NA	NA	Praktikumsplätze	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:38:17Z	15	5	Vorlesungen		0	NA	NA	Vorlesungen_negative	4	-1.75	0.5	Vorlesungen_neutral	5	0	0		0	NA	NA
+2022-05-27T09:38:20Z	16	5	Dozent*innen	Dozent*innen_positive	21	1.76	0.77	Dozent*innen_negative	3	-2	1		0	NA	NA		0	NA	NA
+2022-05-27T09:39:03Z	17	5	NC		0	NA	NA	NC-Regelung	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:39:14Z	18	5	Vorlesungen	Vorlesungen_positive	3	1.33	0.58	Vorlesungen_negative	4	-1.75	0.5	Vorlesungen_neutral	5	0	0		0	NA	NA
+2022-05-27T09:40:13Z	19	5	Leistungsdruck		0	NA	NA	Notendruck	5	-2.4	0.55		0	NA	NA		0	NA	NA
+2022-05-27T09:40:47Z	20	5	Kompetitivität		0	NA	NA	Kompetitivität	1	-2	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:41:41Z	21	5	Studiumsinhalt	Studiumsinhalt_positive	7	2.57	0.53	Studiumsinhalt_negative	3	-1.33	0.58		0	NA	NA		0	NA	NA
+2022-05-27T09:42:05Z	22	5	Noteninflation		0	NA	NA	Notengebung	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:43:39Z	23	5	Lerngruppen	Lerngruppen_positive	11	2.36	0.81	Lerngruppen_negative	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:45:11Z	24	5	Freizeit	Hobbies	1	1	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:45:22Z	25	5	NC	NC_positive	1	2	NA	NC_negative	9	-2.44	0.73	NC_neutral	1	0	NA		0	NA	NA
+2022-05-27T09:47:49Z	26	5	Klausurvorbereitung	Klausurvorbereitung	2	2	0		0	NA	NA	Klausurvorbereitung	1	0	NA		0	NA	NA
+2022-05-27T09:47:51Z	27	5	Seminare		0	NA	NA	Seminare_negative	2	-1	0	Seminare_neutral	5	0	0		0	NA	NA
+2022-05-27T09:49:02Z	28	5	Freizeit		0	NA	NA		0	NA	NA		0	NA	NA	Studentenleben	1	10	NA
+2022-05-27T09:49:38Z	29	5	Pandemiesituation		0	NA	NA	Pandemiesituation_negative	5	-3	0	Pandemiesituation_neutral	3	0	0		0	NA	NA
+2022-05-27T09:50:15Z	30	5	sozialer Vergleich	durch Mitstudierende	2	2	1.41		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:50:18Z	31	5	allgemeines Lehrklima	allgemeines Lehrklima_positive	10	1.5	0.71	allgemeines Lehrklima_negative	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:50:30Z	32	5	NC	NC_positive	1	2	NA	NC_negative	9	-2.44	0.73		0	NA	NA		0	NA	NA
+2022-05-27T09:50:39Z	33	5	Lerngruppen	Lerngruppen_positive	11	2.36	0.81	Lerngruppen_negative	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:51:22Z	34	5	Hilfsbereitschaft		0	NA	NA	nicht hilfsbereit	1	-2	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:52:24Z	35	5	Selbstzweifel		0	NA	NA	Selbstzweifel	2	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-05-27T09:53:09Z	36	5	Motivation	Motivation_positive	15	2.07	0.7	Motivation_negative	5	-2.4	0.89		0	NA	NA		0	NA	NA
+2022-05-27T09:53:37Z	37	5	Folien	Folien_positive	2	1.5	0.71	Folien_negative	4	-1.25	0.5	Folien_neutral	1	0	NA		0	NA	NA
+2022-05-27T09:53:43Z	38	5	Motivation	Motivation_positive	15	2.07	0.7	Motivation_negative	5	-2.4	0.89	Motivation_neutral	1	0	NA		0	NA	NA
+2022-05-27T09:53:46Z	39	5	Online-Lehre	Online-Lehre_positive	2	2.5	0.71	Online-Lehre_negative	8	-2.12	0.83		0	NA	NA		0	NA	NA
+2022-05-27T09:53:51Z	40	5	Literatur	Literatur	1	3	NA	Literatur	3	-1	0		0	NA	NA		0	NA	NA
+2022-05-27T09:55:00Z	41	5	Vorlesungen		0	NA	NA	zu schnell	1	-2	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:56:52Z	42	5	Individualisierungsoptionen	Zeit	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:57:22Z	43	5	Lehrstil	Qualität	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T09:58:26Z	44	5	Leistungsdruck	Leistungsdruck_positive	2	1.5	0.71	Leistungsdruck_negative	6	-2.17	0.75		0	NA	NA		0	NA	NA
+2022-05-27T09:58:30Z	45	5	Online-Lehre	Online-Lehre_positive	2	2.5	0.71	Online-Lehre_negative	8	-2.12	0.83	Online-Lehre_neutral	4	0	0		0	NA	NA
+2022-05-27T09:59:37Z	46	5	Pandemiesituation		0	NA	NA	Pandemie	6	-2.33	0.82		0	NA	NA		0	NA	NA
+2022-05-27T10:00:52Z	47	5	Kommunikation	viel Kommunikation	1	3	NA		0	NA	NA		0	NA	NA	Kommunikation	3	10	0
+2022-05-27T10:01:33Z	48	5	Unsicherheit		0	NA	NA	Studium	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:04:40Z	49	5	Leistungsbereitschaft	Antrieb // Ehrgeiz	2	2	1.41		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:04:43Z	50	5	Präsenzlehre	Präsenzlehre_positive	3	2.33	1.15	Präsenzlehre_negative	1	-2	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:05:02Z	51	5	asynchrone Lehre	asynchrone Lehre_positive	2	3	0	asynchrone Lehre_negative	2	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-05-27T10:06:54Z	52	5	Freizeit	Balance	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:07:21Z	53	5	Kompetitivität		0	NA	NA	Rivalitäten	1	-2	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:07:58Z	54	5	Stadt Freiburg	Freiburg	1	2	NA		0	NA	NA	Freiburg	1	0	NA		0	NA	NA
+2022-05-27T10:09:04Z	55	5	Masterplatzvergabe		0	NA	NA	hoher NC	3	-2	1	hoher NC	1	0	NA	hoher NC	1	10	NA
+2022-05-27T10:09:42Z	56	5	Zeitmangel		0	NA	NA	Wenig Zeit	2	-3	0		0	NA	NA		0	NA	NA
+2022-05-27T10:10:04Z	57	5	Studierendenwerk	Studierendenwerk_positive	3	2.33	1.15		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:11:24Z	58	5	Unübersichtlichkeit		0	NA	NA	unübersichtlich // Unübersichtlichkeit	2	-2	1.41		0	NA	NA		0	NA	NA
+2022-05-27T10:12:08Z	59	5	schlechte Kommunikation		0	NA	NA	wenig Informationen	1	-2	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:12:40Z	60	5	Frageforum	Chat Foren // Frageforen	2	1	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:13:06Z	61	5	Masterplatzvergabe		0	NA	NA	Zulassung Masterplatz // Zulassung Masterplätze NC	2	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-05-27T10:13:51Z	62	5	Eigenverantwortung	Lernplanung	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:14:26Z	63	5	Hilfsbereitschaft	Lernhilfen	1	1	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:15:07Z	64	5	Lehrstil		0	NA	NA		0	NA	NA		0	NA	NA	Vorlesungsstil	1	10	NA
+2022-05-27T10:15:32Z	65	5	NC		0	NA	NA	Bachelor NC	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:17:14Z	66	5	soziales Umfeld	Freunde // Neue Freunde	2	3	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:17:22Z	67	5	Folien	Folien_positive	2	1.5	0.71	Folien_negative	4	-1.25	0.5		0	NA	NA		0	NA	NA
+2022-05-27T10:18:31Z	68	5	E-Mail Kontakt		0	NA	NA	E-Mail Kommunikation	1	-2	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:18:49Z	69	5	asynchrone Lehre		0	NA	NA	sehr viel asynchron // viel asynchron	2	-2	1.41		0	NA	NA		0	NA	NA
+2022-05-27T10:19:37Z	70	5	Einführungsveranstaltungen	herzlich	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:49:01Z	71	5	Angst um Masterplatz		0	NA	NA	Angst um Masterplatz // Angst: kein Masterplatz	2	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-05-27T10:53:06Z	72	5	Aufwand		0	NA	NA	Aufwand_negative	4	-2	0.82	Aufwand_neutral	1	0	NA		0	NA	NA
+2022-05-27T10:53:49Z	73	5	Praktikumssuche		0	NA	NA	erschwerte Praktikumssuche // schwierige Praktikumssuche	2	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-05-27T10:54:37Z	74	5	Umgang mit Pandemiesituation		0	NA	NA	Kalt	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:55:03Z	75	5	Umgang	Umgang_positive	6	2.33	0.82		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:55:43Z	76	5	neue Prüfungsordnung		0	NA	NA	neue Prüfungsordnung	1	-2	NA	Änderung Prüfungsordnung // neue Prüfungsordnung	2	0	0		0	NA	NA
+2022-05-27T10:57:34Z	77	5	Auswirkung auf Psyche		0	NA	NA	Erschöpfung	1	-2	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:58:35Z	78	5	Praxisarmut		0	NA	NA	praxis	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:59:06Z	79	5	Folien	Foliengestaltung	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T10:59:40Z	80	5	Tutorate	Tutorate_positive	7	1.86	1.07		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T11:01:40Z	81	5	kleiner Studiengang		0	NA	NA	klein	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-27T11:02:00Z	82	5	Gedächtnisklausuren	Altklausuren // Altklausurenhilfe	3	2.67	0.58		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T11:04:00Z	83	5	Lernen		0	NA	NA		0	NA	NA		0	NA	NA	Produktivität	1	10	NA
+2022-05-27T11:04:45Z	84	5	Leistungsdruck		0	NA	NA	sehr hoch	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-27T11:14:55Z	85	5	Umgang mit Leistungsdruck	gute Abgrenzung	1	1	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T11:14:59Z	86	5	Präsenzlehre		0	NA	NA	Präsenzlehre_negative	1	-2	NA	Präsenzlehre_neutral	1	0	NA		0	NA	NA
+2022-05-27T11:15:36Z	87	5	Masterplatzvergabe		0	NA	NA	Hoher Master NC // wegen Master-NC	2	-2	1.41		0	NA	NA		0	NA	NA
+2022-05-27T11:16:22Z	88	5	Isolation		0	NA	NA	wenig Kontakte	1	-2	NA		0	NA	NA		0	NA	NA
+2022-05-27T11:16:51Z	89	5	Kompetitivität		0	NA	NA	Konkurrenz // Konkurrenzdruck	3	-1.33	0.58		0	NA	NA	Konkurrenz	1	10	NA
+2022-05-27T11:17:09Z	90	5	Materialien	Lehrmaterial // Lernmaterialien	2	1.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T11:17:51Z	91	5	Eigenverantwortung		0	NA	NA	hohe Eigenverantwortung	1	-1	NA	Eigenverantwortung	1	0	NA		0	NA	NA
+2022-05-27T11:18:17Z	92	5	Anonymität		0	NA	NA	Anonymität	1	-1	NA		0	NA	NA	Viel Anonymität	1	10	NA
+2022-05-27T11:18:38Z	93	5	Online-Lehre		0	NA	NA	Homeoffice // Viel Homeoffice	2	-1.5	0.71		0	NA	NA		0	NA	NA
+2022-05-27T11:22:40Z	94	5	Wissenschaftlichkeit	Wissenschaftliches Arbeiten	1	2	NA		0	NA	NA	Wissenschaftl. Arbeiten	1	0	NA		0	NA	NA
+2022-05-27T11:23:07Z	95	5	Lehrstil		0	NA	NA		0	NA	NA	Lehrinhalte	1	0	NA		0	NA	NA
+2022-05-27T11:24:35Z	96	5	Studiumsinhalt	Inhalte des Studiums // Inhalte Studium	2	1.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T11:25:43Z	97	5	Nachschulungsmodule		0	NA	NA	Nachschulungen	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-27T11:26:43Z	98	5	Motivation	motiviert	1	2	NA		0	NA	NA		0	NA	NA	motiviert	1	10	NA

@@ -1,0 +1,32 @@
+time	searchRound	searchTerm	superordinate	subordinate_positive	N_positive	mean_positive	sd_positive	subordinate_negative	N_negative	mean_negative	sd_negative	subordinate_neutral	N_neutral	mean_neutral	sd_neutral	subordinate_ambivalent	N_ambivalent	mean_ambivalent	sd_ambivalent
+2022-06-01T08:10:12Z	1	Unibibliothek|Lernplätze	Bibliothek		0	NA	NA		0	NA	NA	Lernplätze	1	0	NA		0	NA	NA
+2022-06-01T08:12:37Z	2	Unterstützung durch Lehrperson	Dozent*innen		0	NA	NA		0	NA	NA	Unterstützung durch Lehrperson	1	0	NA		0	NA	NA
+2022-06-01T08:13:38Z	3	Eigenverantwortung|Alltag|Selbstständiges	Eigenverantwortung		0	NA	NA		0	NA	NA	Alltag/Zeiteinteilung // Selbstständiges Arbeiten // Eigenverantwortung_neutral	3	0	0		0	NA	NA
+2022-06-01T08:14:42Z	4	Vermittlung von Lernmethoden	Lehrstil		0	NA	NA		0	NA	NA	Vermittlung von Lernmethoden	1	0	NA		0	NA	NA
+2022-06-01T08:16:04Z	5	Von Angestellt	Leistungsdruck		0	NA	NA		0	NA	NA	Von Angestellt:Innen	1	0	NA		0	NA	NA
+2022-06-01T08:17:58Z	6	durch NC Master	Masterplatzvergabe		0	NA	NA		0	NA	NA	durch NC Master	1	0	NA		0	NA	NA
+2022-06-01T08:18:35Z	7	Bücher	Materialien		0	NA	NA		0	NA	NA	Bücher	1	0	NA		0	NA	NA
+2022-06-01T08:19:24Z	8	Motivation	Motivation		0	NA	NA		0	NA	NA	persönliche Motivation // Motivation weiterzustudieren	2	0	0		0	NA	NA
+2022-06-01T08:20:37Z	9	strukturell|Administrative	Organisation		0	NA	NA		0	NA	NA	strukturelle Faktoren // strukturell // Administrative Belange	3	0	0		0	NA	NA
+2022-06-01T08:21:04Z	10	Seminarstundengestaltung	Seminare		0	NA	NA		0	NA	NA	Seminarstundengestaltung	1	0	NA		0	NA	NA
+2022-06-01T08:24:27Z	11	Ständiger Vergleich|durch Komilitonen gemacht	sozialer Vergleich		0	NA	NA		0	NA	NA	Ständiger Vergleich // durch Komilitonen gemacht	2	0	0		0	NA	NA
+2022-06-01T08:29:15Z	12	Kommiliton	Kommiliton*innen		0	NA	NA		0	NA	NA	Von Kommilitonen:Innen	2	0	0		0	NA	NA
+2022-06-01T08:31:58Z	13	asynchrone Vorlesungen	asynchrone Lehre		0	NA	NA		0	NA	NA	asynchrone Vorlesungen	1	0	NA		0	NA	NA
+2022-06-01T08:33:04Z	14	Zuhause|Einsamkeit	Isolation		0	NA	NA		0	NA	NA	Isolation, Einsamkeit // Zuhause	2	0	0		0	NA	NA
+2022-06-01T08:35:52Z	15	Wissenschaft|Wissenschaftl	Wissenschaftlichkeit		0	NA	NA		0	NA	NA	Wissenschaft	1	0	NA		0	NA	NA
+2022-06-01T08:37:40Z	16	Nachbereitung	Aufwand		0	NA	NA		0	NA	NA	Nachbereitung	1	0	NA		0	NA	NA
+2022-06-01T08:39:19Z	17	nichtgeimpfte Studierende	Umgang mit Pandemiesituation		0	NA	NA		0	NA	NA	nichtgeimpfte Studierende	1	0	NA		0	NA	NA
+2022-06-01T08:39:23Z	18	nichtgeimpfte Studierende	Umgang mit Pandemiesituation		0	NA	NA		0	NA	NA	nichtgeimpfte Studierende	0	NA	NA		0	NA	NA
+2022-06-01T08:47:47Z	19	Privatleben	Freizeit		0	NA	NA		0	NA	NA	Privatleben	1	0	NA		0	NA	NA
+2022-06-01T08:48:55Z	20	Modulen|Schulungen	Module		0	NA	NA		0	NA	NA	Modulen // Schulungen	2	0	0		0	NA	NA
+2022-06-01T08:51:10Z	21	als Ersti|von den Professoren	Unterstützung		0	NA	NA		0	NA	NA	von den Professoren // als Ersti	2	0	0		0	NA	NA
+2022-06-01T08:52:51Z	22	Ständige Beschäftigung|emotionale Angelegenheiten	Auswirkung auf Psyche		0	NA	NA		0	NA	NA	emotionale Angelegenheiten // Ständige Beschäftigung mit	2	0	0		0	NA	NA
+2022-06-01T08:53:38Z	23	His|Online-Portale	digitale Platformen		0	NA	NA		0	NA	NA	Online-Portale // HisINOne	2	0	0		0	NA	NA
+2022-06-01T08:54:33Z	24	Studierendenservice|Angebote	Studierendenwerk		0	NA	NA		0	NA	NA	Studierendenservice // Angebote Universität	2	0	0		0	NA	NA
+2022-06-01T09:56:21Z	25	fordernd	Leistungsanspruch		0	NA	NA		0	NA	NA	fordernd	1	0	NA		0	NA	NA
+2022-06-01T09:57:20Z	26	Persönliche Ansprüche|persönliche Ziele	Leistungsanspruch		0	NA	NA		0	NA	NA	persönliche Ziele // Persönliche Ansprüche	2	0	0		0	NA	NA
+2022-06-01T09:57:43Z	27	vorher klar	Leistungsbereitschaft		0	NA	NA		0	NA	NA	vorher klar	1	0	NA		0	NA	NA
+2022-06-01T09:58:21Z	28	Studiengangsleitung	Prüfungsamt		0	NA	NA		0	NA	NA	Studiengangsleitung	1	0	NA		0	NA	NA
+2022-06-01T09:59:37Z	29	Stadt Freiburg	Freizeit		0	NA	NA		0	NA	NA	Stadt Freiburg_neutral	1	0	NA		0	NA	NA
+2022-06-01T10:05:18Z	30	durch Prof	Druck durch Dozent*innen		0	NA	NA		0	NA	NA	durch Professor*innen	1	0	NA		0	NA	NA
+2022-06-01T10:05:51Z	31	Druck|durchhalten	Druck		0	NA	NA		0	NA	NA	Druck_neutral // durchhalten	2	0	0		0	NA	NA

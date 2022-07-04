@@ -3,11 +3,11 @@ All available CAM data sets collected for future analysis. If you want to analyz
 
 
 ## available CAM data
-- [Feedback psychology program Freiburg 2022](/Feedback%20psychology%20program%20Freiburg%202022)
+- [Feedback psychology program Freiburg 2022](/Feedback%20psychology%20program%20Freiburg%202022) (CAMEL version 1.7, CAM-App version 1.4)
+
 
 ## Additional information
 
-...
 
 
 

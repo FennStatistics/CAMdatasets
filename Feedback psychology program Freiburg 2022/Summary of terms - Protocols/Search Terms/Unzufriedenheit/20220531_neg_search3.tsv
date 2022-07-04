@@ -1,0 +1,22 @@
+time	searchRound	searchTerm	superordinate	subordinate_positive	N_positive	mean_positive	sd_positive	subordinate_negative	N_negative	mean_negative	sd_negative	subordinate_neutral	N_neutral	mean_neutral	sd_neutral	subordinate_ambivalent	N_ambivalent	mean_ambivalent	sd_ambivalent
+2022-05-31T08:27:18Z	1	alleine gelassen|Alleinsein|Vertrauensperson|allein gelassen|auf sich gestellt|Unterstützung	fehlende Unterstützung		0	NA	NA	alleine gelassen // Alleinsein // Vertrauensperson fehlt // auf sich gestellt // allein gelassen fühlen // wenig Unterstützung	6	-1.83	0.98		0	NA	NA		0	NA	NA
+2022-05-31T08:27:41Z	2	Anforderungen	Überforderung		0	NA	NA	Anforderungen_negative	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-31T08:28:11Z	3	E-Mail Ko	Erreichbarkeit 		0	NA	NA	E-Mail Kontakt_negative	1	-2	NA		0	NA	NA		0	NA	NA
+2022-05-31T08:28:44Z	4	Erreichbarkei	Erreichbarkeit	Erreichbarkeit // Erreichbarkeit_positive	9	1.44	0.53	Erreichbarkeit_negative // Erreichbarkeit _negative	10	-1.8	0.92		0	NA	NA		0	NA	NA
+2022-05-31T08:29:18Z	5	Erwartungen	Erwartungserfüllung		0	NA	NA	Erwartungen von anderen // Persönliche Erwartungen	3	-2.33	0.58		0	NA	NA		0	NA	NA
+2022-05-31T08:29:46Z	6	Flexibilität	Flexibilität		0	NA	NA	Flexibilität	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-31T08:30:14Z	7	ständige|Lerngruppen	Lerngruppen		0	NA	NA	Lerngruppen_negative // ständige Wechsel	2	-3	0		0	NA	NA		0	NA	NA
+2022-05-31T08:30:53Z	8	Corona:|Pandemiesit	Pandemiesituation		0	NA	NA	Pandemiesituation_negative // Corona: keine Unterstützung	18	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-05-31T08:31:24Z	9	Langeweile|Abwechslungs	Abwechslungsarmut		0	NA	NA	Abwechslungsarmut_negative // Langeweile	3	-2	0		0	NA	NA		0	NA	NA
+2022-05-31T08:32:02Z	10	klein|Kommiliton	Kommiliton*innen		0	NA	NA	Kommiliton*innen_negative // kleiner Studiengang_negative	5	-1.2	0.45		0	NA	NA		0	NA	NA
+2022-05-31T08:32:25Z	11	Konzentration|Ablenkung	Ablenkungspotential		0	NA	NA	Ablenkungspotential_negative // Konzentration	3	-1	0		0	NA	NA		0	NA	NA
+2022-05-31T08:32:50Z	12	Lehrklima|Lehrstil	Lehrstil		0	NA	NA	Lehrstil_negative // Lehrklima_negative	12	-2	0.6		0	NA	NA		0	NA	NA
+2022-05-31T08:33:39Z	13	Mitschrift|Vorlesungen	Vorlesungen		0	NA	NA	Vorlesungen_negative // Mitschrift	7	-1.86	0.69		0	NA	NA		0	NA	NA
+2022-05-31T08:34:38Z	14	Mitschrift|Vorlesungen	Synchronveranstaltungen	live Vorlesungen	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-31T08:35:04Z	15	Biologische	Module		0	NA	NA	Biologische Psychologie	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-31T08:35:24Z	16	Nachschulung|neue Prüf	neue Prüfungsordnung		0	NA	NA	neue Prüfungsordnung_negative // Nachschulungsmodule_negative	6	-2.33	0.82		0	NA	NA		0	NA	NA
+2022-05-31T08:35:52Z	17	Praktikaan|Praktikumssuche	Praktikumssuche		0	NA	NA	Praktikumssuche_negative // Praktikaanforderung	14	-2.29	0.73		0	NA	NA		0	NA	NA
+2022-05-31T08:36:30Z	18	in Freiburg	Wohnsituation		0	NA	NA	Wohnungssituation in Freiburg	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-31T08:38:24Z	19	online|Online-Lehre	Online-Lehre		0	NA	NA	Online-Lehre_negative // Teilsweise online/offline	22	-2	0.82		0	NA	NA		0	NA	NA
+2022-05-31T08:39:26Z	20	zu strenger	fehlende Individualisierungsoptionen		0	NA	NA	zu strenger Rahmen	1	-2	NA		0	NA	NA		0	NA	NA
+2022-05-31T08:39:55Z	21	Fremdbe|fehlende	Fremdbestimmtheit		0	NA	NA	Fremdbestimmtheit_negative // fehlende Individualisierungsoptionen_negative	8	-2.38	0.74		0	NA	NA		0	NA	NA

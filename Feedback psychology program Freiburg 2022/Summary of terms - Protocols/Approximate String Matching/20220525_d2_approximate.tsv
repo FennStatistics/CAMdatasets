@@ -1,0 +1,63 @@
+time	searchRound	stringDistance	superordinate	subordinate_positive	N_positive	mean_positive	sd_positive	subordinate_negative	N_negative	mean_negative	sd_negative	subordinate_neutral	N_neutral	mean_neutral	sd_neutral	subordinate_ambivalent	N_ambivalent	mean_ambivalent	sd_ambivalent
+2022-05-25T12:50:40Z	1	2	empfundener Leistungsdruck		0	NA	NA	empfundener Leistungsdruck	16	-2.19	0.83	empfundener Leistungsdruck	45	0	0	empfundener Leistungsdruck // Empfundener Leistungsdruck	3	10	0
+2022-05-25T12:50:49Z	2	2	empfundene Unterstützung	empfundene Unterstützung	6	1.17	0.41	Empfundene Unterstütung // empfundene Unterstützung	2	-1	0	empfundene Unterstützung	51	0	0	empfundene Unterstützung	5	10	0
+2022-05-25T12:52:58Z	3	2	NC	NC	1	2	NA	NC	7	-2.29	0.76		0	NA	NA	NC	2	10	0
+2022-05-25T12:53:10Z	4	2	Zukunftsangst		0	NA	NA	Zukunftsangst // Zukunftsängste	6	-2.67	0.52		0	NA	NA		0	NA	NA
+2022-05-25T12:53:16Z	5	2	Praktika	Praktika // Praktikum	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T12:53:40Z	6	2	Lernmotivation	Lernmotivation	2	1.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T12:54:02Z	7	2	sozialer Vergleich		0	NA	NA	Vergleich mit anderen	3	-1	0		0	NA	NA	Vergleich mit Anderen	1	10	NA
+2022-05-25T12:54:10Z	8	2	Stress		0	NA	NA	stress // Stress	9	-2.22	0.97		0	NA	NA		0	NA	NA
+2022-05-25T12:54:19Z	9	2	Seminare	Seminar // Seminare	6	2	0.63	Seminar // Seminare	2	-1	0	Seminare	5	0	0	Seminare	2	10	0
+2022-05-25T12:54:36Z	10	2	Kommiliton*innen	Komilitonen // Kommilitonen	9	2.33	0.87		0	NA	NA		0	NA	NA	Kommilitonen	2	10	0
+2022-05-25T12:54:47Z	11	2	Vorlesungen	Vorlesungen	2	1	0	Vorlesung // Vorlesungen	3	-1.67	0.58	Vorlesungen	5	0	0	Vorlesung	2	10	0
+2022-05-25T12:55:20Z	12	2	Dozent*innen	Dozenten & Seminare // Dozenten Seminare	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T12:55:41Z	13	2	Gruppenarbeit	Gruppenarbeit // Gruppenarbeiten	3	1.67	1.15		0	NA	NA		0	NA	NA	Gruppenarbeit	1	10	NA
+2022-05-25T12:56:18Z	14	2	Lerngruppen	Lerngruppe // Lerngruppen	11	2.36	0.81	Lerngruppen	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-25T12:56:45Z	15	2	Studiumsinhalt	Inhalt // Inhalte	2	2.5	0.71	Inhalt	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-25T12:57:36Z	16	2	Dozent*innen		0	NA	NA		0	NA	NA	Lehrpersonal // Lehrpersonen	2	0	0		0	NA	NA
+2022-05-25T12:57:47Z	17	2	extrinsische Motivation		0	NA	NA	extrinsische Motivation // Extrinsische Motivation	2	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-05-25T12:58:34Z	18	2	Studiumsinhalt	interessante Studieninhalte	1	3	NA	uninteressante Studieninhalte	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-25T12:58:44Z	19	2	gegenseitige Unterstützung	gegenseitige Unterstützung // Gegenseitige Unterstützung	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T12:59:03Z	20	2	Online-Lehre 		0	NA	NA		0	NA	NA		0	NA	NA	online Studium // Online-Studium	2	10	0
+2022-05-25T12:59:26Z	21	2	Website		0	NA	NA	Webseiten // Website	2	-1.5	0.71		0	NA	NA		0	NA	NA
+2022-05-25T12:59:40Z	22	2	Dozent*innen	Dozent:innen	1	1	NA		0	NA	NA		0	NA	NA	Dozent*innen	2	10	0
+2022-05-25T12:59:56Z	23	2	Versagensangst		0	NA	NA	Versagensangst // Versagensängst // Versagensängste	9	-2.22	0.83		0	NA	NA		0	NA	NA
+2022-05-25T13:00:21Z	24	2	Motivation	motivationssteigernd // Motivationssteigernd	3	2	1		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:00:32Z	25	2	Motivation	motivierend	1	2	NA	demotivierend	2	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-05-25T13:01:22Z	26	2	Online-Lehre	Online Lehre // Online-Lehre	2	2.5	0.71	online Lehre // Online Lehre // Online-Lehre // Onlinelehre	7	-2	0.82	Online Lehre // Online-Lehre	4	0	0	Online Lehre // Online-Lehre // Onlinelehre	6	10	0
+2022-05-25T13:01:35Z	27	2	Lehrstil		0	NA	NA		0	NA	NA	Lehrstil	2	0	0	Lehrstil	1	10	NA
+2022-05-25T13:02:11Z	28	2	Leistungsdruck	Persönlicher Leistungsdruck	1	1	NA	persönlicher Leistungsdruck	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:02:28Z	29	2	neue Prüfungsordnung		0	NA	NA		0	NA	NA		0	NA	NA	neue PO // Neue POD	2	10	0
+2022-05-25T13:03:18Z	30	2	Online-Vorlesungen		0	NA	NA	online Vorlesungen // Online-Vorlesungen	2	-1.5	0.71		0	NA	NA		0	NA	NA
+2022-05-25T13:03:44Z	31	2	sozialer Vergleich		0	NA	NA	sozialer vergleich // Sozialer Vergleich	2	-2	1.41		0	NA	NA	sozialer Vergleich	1	10	NA
+2022-05-25T13:03:59Z	32	2	Selbstzweifel		0	NA	NA	selbstwertgefühl // Selbstwertgefühl	2	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-05-25T13:05:08Z	33	2	Masterplatzvergabe		0	NA	NA	NC (Master) // NC Master	3	-2.33	0.58		0	NA	NA		0	NA	NA
+2022-05-25T13:05:37Z	34	2	Studierendenwerk	SwFr // SWFR	2	3	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:05:59Z	35	2	schlechte Kommunikation		0	NA	NA	mangelnde Kommunikation // Mangelnde Kommunikation	2	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-05-25T13:06:30Z	36	2	Materialien	Materialien // materiealien	2	1.5	0.71		0	NA	NA	Materialien	1	0	NA	Materialien	1	10	NA
+2022-05-25T13:06:47Z	37	2	gute Noten	gute Noten // Gute Noten	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:07:37Z	38	2	Kompetitivität		0	NA	NA	Konkurenzdenken // Konkurrenzdenken	2	-3	0		0	NA	NA		0	NA	NA
+2022-05-25T13:17:20Z	39	2	Folien	übersichtliche Folien	1	1	NA	Unübersichtliche Folien	1	-2	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:20:35Z	40	2	Auswendiglernen		0	NA	NA	auswendig lernen // Auswendig lernen // Auswendiglernen	3	-2.33	0.58		0	NA	NA	Auswendiglernen	1	10	NA
+2022-05-25T13:21:19Z	41	2	Aufwand		0	NA	NA	Zeit Aufwand	1	-1	NA	Zeitaufwand	1	0	NA		0	NA	NA
+2022-05-25T13:21:45Z	42	2	Motivation	Motivationssteigerung	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:22:23Z	43	2	Umgang	freundlicher Umgang // Freundlicher Umgang	2	2	1.41		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:22:39Z	44	2	Online-Lehre		0	NA	NA	onlinelehre	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:23:05Z	45	2	Mensa	Mensa	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:23:39Z	46	2	Bibliothek	Unibib // UniBib	2	2	0		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:23:57Z	47	2	Abwechslung	abwechslungsreich // Abwechslungsreich	3	2	1		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:24:12Z	48	2	Abwechslung	Abwechslung	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:24:32Z	49	2	Ansprechpartner		0	NA	NA		0	NA	NA	Ansprechpartner	1	0	NA	ansprechpartner	1	10	NA
+2022-05-25T13:24:54Z	50	2	Tutor*innen	tutoren // Tutoren	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:25:16Z	51	2	Erstiwoche	Ersti-Woche // Erstiwoche	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:26:00Z	52	2	Präsenzlehre		0	NA	NA	Präsenzlehre	1	-2	NA	Präsenzlehre	1	0	NA	Päsenzlehre	1	10	NA
+2022-05-25T13:26:51Z	53	2	Tutorate	Tutorat	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:27:10Z	54	2	Fragestunden	Fragestunden // Fragerunden	2	1.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:27:18Z	55	2	Tutorate	Tutorate	6	1.67	1.03		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:28:14Z	56	2	Masterplatzvergabe		0	NA	NA	Masterplatz	1	-2	NA		0	NA	NA	Masterstplatz	1	10	NA
+2022-05-25T13:28:33Z	57	2	Frageforum	Frage Forum // Fragenforum	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:28:59Z	58	2	Umgang	wertschätzend // Wertschätzend	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:29:26Z	59	2	Studiumsinhalt	interessante Inhalte // Interessante Inhalte	3	2.33	0.58		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-25T13:29:58Z	60	2	sozialer Vergleich		0	NA	NA	Vergleich mit Komilitonen // Vergleiche mit Kommilitonen // Vergleichen mit Kommilitonen	3	-1.33	0.58		0	NA	NA		0	NA	NA
+2022-05-25T13:30:21Z	61	2	asynchrone Lehre	asynchron online	1	3	NA	Asynchron Online // synchron online	2	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-05-25T13:30:36Z	62	2	Umgang	Wohlwollen // wohlwollend	2	2.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA

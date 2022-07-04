@@ -1,0 +1,26 @@
+time	searchRound	stringDistance	superordinate	subordinate_positive	N_positive	mean_positive	sd_positive	subordinate_negative	N_negative	mean_negative	sd_negative	subordinate_neutral	N_neutral	mean_neutral	sd_neutral	subordinate_ambivalent	N_ambivalent	mean_ambivalent	sd_ambivalent
+2022-05-27T08:03:58Z	1	4	NC		0	NA	NA		0	NA	NA		0	NA	NA	NC_ambivalent	2	10	0
+2022-05-27T08:04:09Z	2	4	empfundene Unterstützung	empfundene Unterstützung_positive	6	1.17	0.41	empfundene Unterstützung_negative	2	-1	0		0	NA	NA		0	NA	NA
+2022-05-27T08:04:39Z	3	4	Seminare	Seminare_positive	6	2	0.63	Seminare_negative	2	-1	0		0	NA	NA		0	NA	NA
+2022-05-27T08:04:47Z	4	4	Dozent*innen	Dozent*innen_positive	20	1.7	0.73	Dozent*innen_negative	3	-2	1		0	NA	NA		0	NA	NA
+2022-05-27T08:04:52Z	5	4	Vorlesungen	Vorlesungen_positive	3	1.33	0.58	Vorlesungen_negative	4	-1.75	0.5		0	NA	NA		0	NA	NA
+2022-05-27T08:05:18Z	6	4	Termine für Abgaben		0	NA	NA	Fristen	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-27T08:05:22Z	7	4	Studiumsinhalt	Studiumsinhalt_positive	6	2.5	0.55	Studiumsinhalt_negative	3	-1.33	0.58		0	NA	NA		0	NA	NA
+2022-05-27T08:05:26Z	8	4	Lerngruppen	Lerngruppen_positive	11	2.36	0.81	Lerngruppen_negative	1	-3	NA		0	NA	NA		0	NA	NA
+2022-05-27T08:05:33Z	9	4	NC	NC_positive	1	2	NA	NC_negative	8	-2.38	0.74		0	NA	NA		0	NA	NA
+2022-05-27T08:06:54Z	10	4	Seminare		0	NA	NA		0	NA	NA		0	NA	NA	nach Corona // vor Corona	2	10	0
+2022-05-27T08:07:04Z	11	4	Online-Lehre 		0	NA	NA		0	NA	NA		0	NA	NA	Online-Lehre _ambivalent // Online-Lehre_ambivalent	9	10	0
+2022-05-27T08:07:25Z	12	4	allgemeines Lehrklima	allgemeines Lehrklima_positive	10	1.5	0.71	allgemeines Lehrklima_negative	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-27T08:07:47Z	13	4	NC	NC_positive	1	2	NA	NC_negative	8	-2.38	0.74		0	NA	NA		0	NA	NA
+2022-05-27T08:07:51Z	14	4	Motivation	Motivation_positive	15	2.07	0.7	Motivation_negative	5	-2.4	0.89		0	NA	NA		0	NA	NA
+2022-05-27T08:08:06Z	15	4	Folien	Folien_positive	2	1.5	0.71	Folien_negative	4	-1.25	0.5		0	NA	NA		0	NA	NA
+2022-05-27T08:08:12Z	16	4	Online-Lehre	Online-Lehre_positive	2	2.5	0.71	Online-Lehre_negative	8	-2.12	0.83		0	NA	NA		0	NA	NA
+2022-05-27T08:08:16Z	17	4	Leistungsdruck	Leistungsdruck_positive	2	1.5	0.71	Leistungsdruck_negative	1	-1	NA		0	NA	NA		0	NA	NA
+2022-05-27T08:09:02Z	18	4	Studiumsinhalt	Empra	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T08:09:05Z	19	4	Präsenzlehre	Präsenzlehre_positive	3	2.33	1.15	Präsenzlehre_negative	1	-2	NA		0	NA	NA		0	NA	NA
+2022-05-27T08:09:08Z	20	4	asynchrone Lehre	asynchrone Lehre_positive	2	3	0	asynchrone Lehre_negative	2	-2.5	0.71		0	NA	NA		0	NA	NA
+2022-05-27T08:09:41Z	21	4	Unterstützung 	Unterstützung _positive // Unterstützung_positive	4	1.25	0.5		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T08:10:04Z	22	4	Lernen	Lernen_positive	2	1.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T08:10:17Z	23	4	Lernen	Lernen_positive	2	1.5	0.71		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T08:11:32Z	24	4	Seminare	Quiz	1	3	NA		0	NA	NA		0	NA	NA		0	NA	NA
+2022-05-27T08:12:00Z	25	4	Umgang mit Leistungsdruck 	Ziel	1	2	NA		0	NA	NA		0	NA	NA		0	NA	NA
