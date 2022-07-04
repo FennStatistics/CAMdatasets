@@ -5,12 +5,14 @@
 - main research questions: (1) verify whether the CAM method can provide additional information vis-à-vis the established data collection method of online surveys within complex topics, (2) check if CAMs are a helpful method in mediation
 - longitudinal (time points = 2, one week interval), intervention:
     - ....
-- collection of CAMs and multiple scales (...)
+- collection of CAMs and multiple scales ([see scales used](/Intervetion%20study%20Fictional%20Technological%20Implant%20-%202021/scales%20used))
 - N=90 first time point, N=75 second time point (dropout rate of 16.6 %)
 - descreptive: mean age was 32.69 years (SD = 12.14), while ranging from 19 to 72. we had 46 male participants, 28 female and one intersex.
 
 
 ## Files
+
+
 - [raw data](/Feedback%20psychology%20program%20Freiburg%202022/raw%20data), which can be analzed using the CAM-App for example
 
 *Remark: The data was analyzed by an former version of the CAM-App (more recent version is not generating protocols anymore)*
@@ -33,6 +35,7 @@ Mediation is a method for conflict resolution in which an impartial mediator rec
 
 ## Literature
 Dörr, M. (2021). Eine Qualitative Analyse von Kognitiv-Affektiven Karten. Können Daten von Kognitiv-Affektiven Karten im Vergleich zu Fragebögen zusätzliche Informationen geben? [Unpublished undergraduate thesis]. University of Freiburg.
+
 Gros, W. (2021). *CAMediaid*: Multimethod approach to assess Cognitive-Affective Maps in mediation – A quantitative validation study [Unpublished undergraduate thesis]. University of Freiburg.
 
 
