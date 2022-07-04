@@ -4,8 +4,8 @@
 
 - main research questions: (1) verify whether the CAM method can provide additional information vis-à-vis the established data collection method of online surveys within complex topics, (2) check if CAMs are a helpful method in mediation
 - longitudinal (time points = 2, one week interval), intervention:
-    - ....
-- collection of CAMs and multiple scales ([see scales used](/Intervetion%20study%20Fictional%20Technological%20Implant%20-%202021/scales%20used))
+    - participants with a positive pre-CAM were told to elaborate the negative prototype and vice versa. Participants with a neutral pre-CAM (mean valence = 0) got allocated randomly. The elaboration was prompted by two questions which had to be processed for at least two minutes each. Both CAMs, the own CAM from the first measurement time point and the allocated prototype, were visible at the same time. The control group just elaborated their CAM from the first measurement time point
+- collection of CAMs and multiple scales ([see scales used](/Intervetion%20study%20Fictional%20Technological%20Implant%20-%202021/scales%20used/overview%20scales.pdf))
 - N=90 first time point, N=75 second time point (dropout rate of 16.6 %)
 - descreptive: mean age was 32.69 years (SD = 12.14), while ranging from 19 to 72. we had 46 male participants, 28 female and one intersex.
 
@@ -13,12 +13,9 @@
 ## Files
 
 
-- [raw data](/Feedback%20psychology%20program%20Freiburg%202022/raw%20data), which can be analzed using the CAM-App for example
+- [CAM data time point 1](/Intervetion%20study%20Fictional%20Technological%20Implant%20-%202021/CAM%20data%20time%20point%201), which can be analzed using the CAM-App for example
 
 *Remark: The data was analyzed by an former version of the CAM-App (more recent version is not generating protocols anymore)*
-- [Summary of terms - Protocols](/Feedback%20psychology%20program%20Freiburg%202022/Summary%20of%20terms%20-%20Protocols), protocols were generated during the summary process
-- [Summary of terms - Uploads](/Feedback%20psychology%20program%20Freiburg%202022/Summary%20of%20terms%20-%20Uploads), nodes datasets, which were uploaded during the summary process
-- [Subcategories summary](/Feedback%20psychology%20program%20Freiburg%202022/Subcategories%20summary), generated subcategories from raw data (final protocol)
 
 
 ## Abstracts
