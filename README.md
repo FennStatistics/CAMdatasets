@@ -1,5 +1,5 @@
 # CAMdatasets
-All available CAM data sets collected for future analysis. If you want to analyze the CAM data please write: <julius.fenn@psychologie.uni-freiburg.de>
+All available CAM data sets collected for future analysis. If you want to analyze the CAM or survey data please write: <julius.fenn@psychologie.uni-freiburg.de>
 
 
 ## available CAM data

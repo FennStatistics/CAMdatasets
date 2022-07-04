@@ -16,8 +16,6 @@
 - [Summary of terms - Protocols](/Feedback%20psychology%20program%20Freiburg%202022/Summary%20of%20terms%20-%20Protocols), protocols were generated during the summary process
 - [Summary of terms - Uploads](/Feedback%20psychology%20program%20Freiburg%202022/Summary%20of%20terms%20-%20Uploads), nodes datasets, which were uploaded during the summary process
 - [Subcategories summary](/Feedback%20psychology%20program%20Freiburg%202022/Subcategories%20summary), generated subcategories from raw data (final protocol)
-
-
 - [survey data](/Feedback%20psychology%20program%20Freiburg%202022/survey%20data), all survey data, including raw data (JSON), R files for data preperation and JASP analysis file
 
 

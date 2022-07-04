@@ -15,8 +15,6 @@
 
 - [CAM data time point 1](/Intervetion%20study%20Fictional%20Technological%20Implant%202021/CAM%20data%20time%20point%201), which can be analzed using the CAM-App for example; folder media: .png of drawn CAMs
 - [CAM data time point 2](/Intervetion%20study%20Fictional%20Technological%20Implant%202021/CAM%20data%20time%20point%202), which can be analzed using the CAM-App for example; folder media: .png of drawn CAMs
-
-
 - [survey data](/Intervetion%20study%20Fictional%20Technological%20Implant%202021/survey%20data), all survey data, including raw data (JSON), R files for data preperation
 
 
