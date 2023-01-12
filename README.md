@@ -1,10 +1,11 @@
 # CAMdatasets
-All available CAM data sets collected for future analysis. If you want to analyze the CAM or survey data please write: <julius.fenn@psychologie.uni-freiburg.de>
+All available CAM data sets collected for future analysis. If you want to contribute or to analyze the CAM or survey data please write: <julius.fenn@psychologie.uni-freiburg.de>
 
 
 ## available CAM data
 - [Feedback psychology program Freiburg 2022](/Feedback%20psychology%20program%20Freiburg%202022) (C.A.M.E.L. version 1.7, CAM-App version 1.4)
 - [Intervetion study Fictional Technological Implant 2021](/Intervetion%20study%20Fictional%20Technological%20Implant%202021) (Valence version ?, self written R functions)
+- [Feedback psychology program Freiburg 2022](/Feedback%20psychology%20program%20Freiburg%202022) (C.A.M.E.L. version 1.9, CAM-App version 2.1)
 
 
 ## Additional information
