@@ -6,11 +6,10 @@ All available CAM data sets collected for future analysis. If you want to contri
 
 - [Intervetion study Leisure Walks 2020](/Intervetion%20study%20Leisure%20Walks%202020) (Valence version ?, self written R functions)
 - [Intervetion study Fictional Technological Implant 2021](/Intervetion%20study%20Fictional%20Technological%20Implant%202021) (Valence version ?, self written R functions)
-- [Network Approach CAMs 2021](/Stratospheric%20Aerosol%20Injection%20Multi%20Method%202022) (Valence version ?, Carter's CAM Network Analysis Python Code: https://osf.io/pxnvz/)
+- [Network Approach CAMs 2021](/Network%20Approach%20CAMs%202021) (Valence version ?, Carter's CAM Network Analysis Python Code: https://osf.io/pxnvz/)
 - [Feedback psychology program Freiburg 2022](/Feedback%20psychology%20program%20Freiburg%202022) (C.A.M.E.L. version 1.7, CAM-App version 1.4)
     + old CAM-App ! (old protocol structure)
 - [Stratospheric Aerosol Injection Multi Method 2022](/Stratospheric%20Aerosol%20Injection%20Multi%20Method%202022) (C.A.M.E.L. version 1.9, CAM-App version 2.1)
-
 
 
 
