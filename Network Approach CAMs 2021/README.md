@@ -2,16 +2,16 @@
 
 ## Study design
 
-- main research questions: (1) measure individual's cognitive and affective attitudes toward the corona pandemic
-- cross-sectional (one time point), with intervention (mixed design 2x2):
-    + Experimental group: participants took a leisure walk for 1 hour to check how it affects individuals' attitudes to the pandemic; the control group drew CAMs before and after any self- chosen activity at home
-- N=66; 30 walking condition (age, M = 29.13, SD = 9.13; 46.7% female), 36 control condition (age, M = 26.97, SD = 4.86; 30.6% female)
+- main research questions: (1) measure if structural properties (latent and emotional) of drawn CAMs are predictive for the perceived coronavirus threat 
+- cross-sectional (one time point), no intervention; possibility to compare to groups (countries):
+    + ...
+- N=193; 93 Canadias (age, M = XX, SD = XX; XX% female), 100 Germans (age, M = XX, SD = XX; XX% female)
 
 
 ## Files
 
-- [CAM raw data](/Intervetion%20study%20Leisure%20Walks%202020/raw%20data), CAMs within raw folder can be analyzed using the CAM-App for example
-- [CAM pictures (.png)](/Intervetion%20study%20Leisure%20Walks%202020/CAMs%20pictures); created with R
+- [CAM raw data](/Network%20Approach%20CAMs%202021/raw%20data), CAMs seperated for Germany and Canada, can be analyzed using the CAM-App for example
+- [CAM pictures (.png)](/Network%20Approach%20CAMs%202021/CAMs%20pictures); created with R
 - all other files can be found on https://osf.io/zhysw/?view_only=f6b06d165d9640e1a6fb143b41824b55
 
 
