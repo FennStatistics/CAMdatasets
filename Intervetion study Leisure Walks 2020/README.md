@@ -10,11 +10,9 @@
 
 ## Files
 
-
-- [CAM data time point 1](/Intervetion%20study%20Fictional%20Technological%20Implant%202021/CAM%20data%20time%20point%201), CAMs within raw folder can be analyzed using the CAM-App for example; folder media: .png of drawn CAMs
-- [CAM data time point 2](/Intervetion%20study%20Fictional%20Technological%20Implant%202021/CAM%20data%20time%20point%202), CAMs within raw folder can be analyzed using the CAM-App for example; folder media: .png of drawn CAMs
-- [survey data](/Intervetion%20study%20Fictional%20Technological%20Implant%202021/survey%20data), all survey data, including raw data (JSON), R files for data preperation
-
+- [CAM raw data](/Intervetion%20study%20Leisure%20Walks%202020/raw%20data), CAMs within raw folder can be analyzed using the CAM-App for example
+- [CAM pictures (.png)](/Intervetion%20study%20Leisure%20Walks%202020/CAMs%20pictures); created with R
+- all other files can be found on https://osf.io/zhysw/?view_only=f6b06d165d9640e1a6fb143b41824b55
 
 
 ## Abstracts
