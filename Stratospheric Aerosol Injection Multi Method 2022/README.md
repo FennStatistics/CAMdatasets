@@ -1,4 +1,4 @@
-# Feedback psychology program Freiburg 2022
+# Stratospheric Aerosol Injection Multi Method 2022
 
 ## Study design
 
