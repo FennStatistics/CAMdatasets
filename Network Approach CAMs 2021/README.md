@@ -12,7 +12,7 @@
 
 - [CAM raw data](/Network%20Approach%20CAMs%202021/raw%20data), CAMs seperated for Germany and Canada, can be analyzed using the CAM-App for example
 - [CAM pictures (.png)](/Network%20Approach%20CAMs%202021/CAMs%20pictures); created with R
-- all other files can be found on https://osf.io/zhysw/?view_only=f6b06d165d9640e1a6fb143b41824b55
+- all other files can be found on https://osf.io/8mxcz/?view_only=750d8048ed6a4c629d03f11bcc03c454
 
 
 ## Abstracts
