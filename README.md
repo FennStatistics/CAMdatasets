@@ -25,5 +25,6 @@ Data was analyzed by one software:
 ## Acknowledgments
 
 CAM data was contributed by
-- XXX (YYY)
+- Lisa Reuter (<lisa.reuter@fribis.uni-freiburg.de>)
+- Wilhelm Gros (<wilhelm.gros@livmats.uni-freiburg.de>)
 - Julius Fenn (<julius.fenn@psychologie.uni-freiburg.de>)

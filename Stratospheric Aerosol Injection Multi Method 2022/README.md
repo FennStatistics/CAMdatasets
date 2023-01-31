@@ -12,12 +12,11 @@
 
 ## Files
 
-- [CAM raw data](/Feedback%20psychology%20program%20Freiburg%202022/raw%20data), JSON file can be analyzed using the CAM-App for example
-    + [protocols of summary process](/Feedback%20psychology%20program%20Freiburg%202022/Summary%20of%20Terms), ! outdated in CAM-App version 2.x
-- [survey data](/Feedback%20psychology%20program%20Freiburg%202022/survey%20data), all survey data, including raw data (JSON), R files for data 
+- [CAM raw data](/Stratospheric%20Aerosol%20Injection%20Multi%20Method%202022/raw%20data), JSON file can be analyzed using the CAM-App for example
+    + [protocols of summary process](/Stratospheric%20Aerosol%20Injection%20Multi%20Method%202022/final%20protocol)
+- [CAM pictures (.png, .svg)](Stratospheric%20Aerosol%20Injection%20Multi%20Method%202022/CAMs%20as%20JSON%2C%20R%20format)
 - all other files can be found on https://osf.io/zn7vy/
     + for explenation of files see Wiki on OSF
-
 
 
 ## Abstracts
