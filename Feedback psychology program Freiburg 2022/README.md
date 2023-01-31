@@ -14,8 +14,8 @@
 
 
 - [CAM raw data](/Feedback%20psychology%20program%20Freiburg%202022/raw%20data), JSON file can be analyzed using the CAM-App for example
-    + [protocols of summary process](Feedback%20psychology%20program%20Freiburg%202022/Summary%20of%20Terms), ! outdated in CAM-App version 2.x
-- [survey data](Feedback%20psychology%20program%20Freiburg%202022/survey%20data), all survey data, including raw data (JSON), R files for data preperation and first analyses
+    + [protocols of summary process](/Feedback%20psychology%20program%20Freiburg%202022/Summary%20of%20Terms), ! outdated in CAM-App version 2.x
+- [survey data](/Feedback%20psychology%20program%20Freiburg%202022/survey%20data), all survey data, including raw data (JSON), R files for data preperation and first analyses
 
 
 
