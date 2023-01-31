@@ -13,10 +13,12 @@
 ## Files
 
 
-- [CAM data time point 1](/Intervetion%20study%20Fictional%20Technological%20Implant%202021/CAM%20data%20time%20point%201), CAMs within raw folder can be analyzed using the CAM-App for example; folder media: .png of drawn CAMs
+- [CAM raw data](/Feedback%20psychology%20program%20Freiburg%202022/raw%20data), JSON file can be analyzed using the CAM-App for example
 - [CAM data time point 2](/Intervetion%20study%20Fictional%20Technological%20Implant%202021/CAM%20data%20time%20point%202), CAMs within raw folder can be analyzed using the CAM-App for example; folder media: .png of drawn CAMs
 - [survey data](/Intervetion%20study%20Fictional%20Technological%20Implant%202021/survey%20data), all survey data, including raw data (JSON), R files for data preperation
 
+
+https://github.com/FennStatistics/CAMdatasets/tree/main/Feedback%20psychology%20program%20Freiburg%202022/raw%20data
 
 
 ## Abstracts
