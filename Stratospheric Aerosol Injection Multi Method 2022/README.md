@@ -22,10 +22,7 @@
 
 ## Abstract
 
-Lucius & Güth (2022):
-
-The following study tests Cognitive-Affective Maps (CAMs) as a method to assess study satisfaction of psychology students at the Albert-Ludwigs-University of Freiburg. Using CAMs, central factors for satisfaction or dissatisfaction with the psychology program were identified, evoking ideas for recommendations for improvement. The data was gen-erated by 68 participants, who each drew a virtual CAM concerning their attitude towards the psychology program using the C.A.M.E.L software (Gouret et al., 2022). The data was analyzed through the CAM-app (Fenn et al., 2022), following a six-step process that incorporated aspects of qualitative content analysis according to Mayring and Fenzl (2019) and Kuckartz & Rädiker (2022). As a result, 12 overarching topics, intended to cover all concepts mentioned in the CAMs, were identified. These included eight factors simultaneously responsible for study satisfaction and dissatisfaction (pressure, communication, teaching, organization, pandemic situation, social climate and support) as well as three factors exclusively responsible for dissatisfaction (workload, impact on mental health and system). Based on these factors, 11 suggestions for improvement were con-ceived to be passed on to the faculty and staff of the psychology program. The applica-bility of CAMs as a data collection method was assessed as promising, as it shortens the process of qualitative analysis, increases objectivity, counteracts social desirability and increases efficiency. Moreover, the CAM-app adds transparency to the data evaluation process and offers numerous possibilities for the presentation of results. Therefore, in addition to important content-related findings, the present study can function as a refer-ence point for further CAM research.
-
+blub
 
 ## Literature
 Lucius, A. & Güth, L. (2022). Was wollen Studierende: Verbesserungsvorschläge für das Psychologiestudium an der Universität Freiburg [Unpublished undergraduate thesis]. University of Freiburg.
