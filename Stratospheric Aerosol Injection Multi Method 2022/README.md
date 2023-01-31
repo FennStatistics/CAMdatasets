@@ -2,27 +2,29 @@
 
 ## Study design
 
-- main research question: assess study satisfaction of psychology students at the Albert-Ludwigs-University of Freiburg
-- cross-sectional, no intervention
-- collection of CAMs and two survey scales ([Perceived Stress Scale](https://www.sciencedirect.com/science/article/pii/S169726002030017X), [Messinstrument für die Wahrnehmung von Studienanforderungen](https://zis.gesis.org/skala/J%C3%A4nsch-Bosse-Messinstrument-f%C3%BCr-die-Wahrnehmung-von-Studienanforderungen-(MWS)))
-- N=68, final N=65
-- descreptive: average age of the sample was M=22.53 (SD=5.3), with a minimum of 18 years and a maximum of 41 years. The sample was divided into 55 women (84.61%), nine men (13.85%) and one person with no gender information (1.54%).
+- main research questions: (1) combine newly developed methods consisting of two data collections tools (Cognitive-Affective Mapping and large-scale survey) and three types of data analyses (analyses of Cognitive-Affective Maps, analyses of survey data using factor analysis and cluster analytical procedures) to inform climate policy
+    + CAMs were used as a pre-study to inform subsequent survey study (main study); we identified additional ethic scales and climate change concern scale
+- longitudinal (time points = 2, two week interval), no intervention
+- collection of CAMs and multiple scales 
+- N=68 CAMs
+- descreptive CAM data: mean age 38, SD = 10.40, 47% female; one participant (2%) faced technical problems, but no one had to stop drawing the CAM for technical reasons
 
 
 ## Files
-- [raw data](/Feedback%20psychology%20program%20Freiburg%202022/raw%20data), which can be analzed using the CAM-App for example
 
-*Remark: The data was analyzed by an former version of the CAM-App (more recent version is not generating protocols anymore)*
-- [Summary of terms - Protocols](/Feedback%20psychology%20program%20Freiburg%202022/Summary%20of%20terms%20-%20Protocols), protocols were generated during the summary process
-- [Summary of terms - Uploads](/Feedback%20psychology%20program%20Freiburg%202022/Summary%20of%20terms%20-%20Uploads), nodes datasets, which were uploaded during the summary process
-- [Subcategories summary](/Feedback%20psychology%20program%20Freiburg%202022/Subcategories%20summary), generated subcategories from raw data (final protocol)
-- [survey data](/Feedback%20psychology%20program%20Freiburg%202022/survey%20data), all survey data, including raw data (JSON), R files for data preperation and JASP analysis file
-
+- [CAM raw data](/Feedback%20psychology%20program%20Freiburg%202022/raw%20data), JSON file can be analyzed using the CAM-App for example
+    + [protocols of summary process](/Feedback%20psychology%20program%20Freiburg%202022/Summary%20of%20Terms), ! outdated in CAM-App version 2.x
+- [survey data](/Feedback%20psychology%20program%20Freiburg%202022/survey%20data), all survey data, including raw data (JSON), R files for data 
+- all other files can be found on https://osf.io/zn7vy/
+    + for explenation of files see Wiki on OSF
 
 
-## Abstract
 
-blub
+## Abstracts
+Fenn et al. (submitted):
+
+The best combination of possible climate policy options (mitigation, adaptation and different climate engineering technologies) to tackle climate change is unknown. Climate policy is facing a hard decision in answering the question if climate engineering technologies should be researched, limitedly deployed or even deployed at global scale. Such technologies bear large epistemological and ethical uncertainties and their use as well as non-use might have severe consequences. To deal with such uncertainties, (ethical) technology assessment should include the perspective of various stakeholders to combine diverse types of knowledge to inform climate policy. To facilitate (ethical) technology assessment, we propose in this article a methodology to collect and analyze data on ethical concerns and the acceptability of climate engineering technologies, whereby we focus only on Stratospheric Aerosol Injection (SAI) as an use case. We propose an innovative combination of newly developed methods consisting of two data collections tools (Cognitive-Affective Mapping and large-scale survey) and three types of data analyses (analyses of Cognitive-Affective Maps, analyses of survey data using factor analysis and cluster analytical procedures). Applying a multi-method approach we were able to identify (1) central ethical and governance related concerns regarding SAI (by Cognitive-Affective Maps), (2) to measure the relative importance of core constructs (positive and negative affect, risk and benefit perception, trust) on the acceptability of SAI and (3) to identify sub-groups of people (technology optimists and pessimists), which could be addressed differently by climate policy (by large-scale survey).
+
 
 ## Literature
-Lucius, A. & Güth, L. (2022). Was wollen Studierende: Verbesserungsvorschläge für das Psychologiestudium an der Universität Freiburg [Unpublished undergraduate thesis]. University of Freiburg.
+Fenn, J., Helm, J., Höfele, P., Ernst, A., & Kiesel, A. (submitted). Identifying Key-Psychological Factors Influencing the Acceptance of yet Emerging Technologies – A Multi-Method-Approach to Inform Climate Policy.

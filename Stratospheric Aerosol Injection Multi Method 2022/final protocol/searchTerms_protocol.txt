@@ -1,0 +1,5 @@
+time	searchRound	stringDistance	superordinate	subordinate_positive	N_positive	mean_positive	sd_positive	subordinate_negative	N_negative	mean_negative	sd_negative	subordinate_neutral	N_neutral	subordinate_ambivalent	N_ambivalent
+2022-11-08 12:21:50	1	acceptability	acceptability of SAI	acceptability of SAI	6	1.17	0.41	acceptability of SAI	4	-1.5	0.58	acceptability of SAI	43	acceptability of SAI	5
+2022-11-08 12:22:06	1	perceived risks	perceived risks		0	NA	NA	perceived risks	39	-2.23	0.74	perceived risks	11	perceived risks	4
+2022-11-08 12:22:18	1	perceived benefits	perceived benefits	perceived benefits	40	2.02	0.8		0	NA	NA	perceived benefits	11	perceived benefits	2
+2022-11-08 12:22:27	1	trust in policitical	trust in policitical institutions	trust in policitical institutions	2	2	1.41	trust in policitical institutions	21	-2.05	0.8	trust in policitical institutions	13	trust in policitical institutions	18
