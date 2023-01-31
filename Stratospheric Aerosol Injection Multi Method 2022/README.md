@@ -14,7 +14,7 @@
 
 - [CAM raw data](/Stratospheric%20Aerosol%20Injection%20Multi%20Method%202022/raw%20data), JSON file can be analyzed using the CAM-App for example
     + [protocols of summary process](/Stratospheric%20Aerosol%20Injection%20Multi%20Method%202022/final%20protocol)
-- [CAM pictures (.png, .svg)](Stratospheric%20Aerosol%20Injection%20Multi%20Method%202022/CAMs%20as%20JSON%2C%20R%20format)
+- [CAM pictures (.png, .svg)](/Stratospheric%20Aerosol%20Injection%20Multi%20Method%202022/CAMs%20as%20JSON%2C%20R%20format)
 - all other files can be found on https://osf.io/zn7vy/
     + for explenation of files see Wiki on OSF
 
