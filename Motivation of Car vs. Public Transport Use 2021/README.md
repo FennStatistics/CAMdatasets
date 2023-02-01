@@ -13,8 +13,7 @@
 ## Files
 
 
-- [CAM raw data](/Network%20Approach%20CAMs%202021/raw%20data), CAMs seperated for all and conditions X time points, can be analyzed using the CAM-App for example
-
+- [CAM raw data all](/Motivation%20of%20Car%20vs.%20Public%20Transport%20Use%202021/raw%20data/all), CAMs seperated for all and conditions X time points, can be analyzed using the CAM-App for example
 
 
 ## Abstracts
