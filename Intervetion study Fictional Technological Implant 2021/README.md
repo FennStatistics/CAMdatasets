@@ -3,7 +3,7 @@
 ## Study design
 
 - main research questions: (1) verify whether the CAM method can provide additional information vis-à-vis the established data collection method of online surveys within complex topics, (2) check if CAMs are a helpful method in mediation
-- longitudinal (time points = 2, one week interval), intervention:
+- longitudinal (time points = 2, one week interval), with intervention (mixed design 2x2):
     - participants with a positive pre-CAM were told to elaborate the negative prototype and vice versa. Participants with a neutral pre-CAM (mean valence = 0) got allocated randomly. The elaboration was prompted by two questions which had to be processed for at least two minutes each. Both CAMs, the own CAM from the first measurement time point and the allocated prototype, were visible at the same time. The control group just elaborated their CAM from the first measurement time point
 - collection of CAMs and multiple scales ([see scales used](/Intervetion%20study%20Fictional%20Technological%20Implant%202021/scales%20used/overview%20scales.pdf))
 - N=90 first time point, N=75 second time point (dropout rate of 16.6 %)
