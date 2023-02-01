@@ -12,7 +12,6 @@ All available CAM data sets collected for future analysis. If you want to contri
     + old CAM-App ! (old protocol structure)
 - [Stratospheric Aerosol Injection Multi Method 2022](/Stratospheric%20Aerosol%20Injection%20Multi%20Method%202022) (C.A.M.E.L. version 1.9, CAM-App version 2.1)
 - missing ...
-    + Claras CAMs
     + ?????
 
 
