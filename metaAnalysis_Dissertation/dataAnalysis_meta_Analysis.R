@@ -112,8 +112,8 @@ for(s in 1:length(list_drawnCAMs)){
 ########################################
 # plot
 ########################################
-display.brewer.pal(n = length(list_degrees), name = 'RdBu')
-colourPalette <- brewer.pal(n = length(list_degrees), name = "RdBu")
+display.brewer.pal(n = length(list_degrees), name = 'Set1')
+colourPalette <- brewer.pal(n = length(list_degrees), name = "Set1")
 
 
 plot(1, type="n", xlim=c(1, 20),
@@ -168,6 +168,15 @@ for (i in 1:length(list_degrees)) {
 }
 
 
+# Add a legend
+legend(6.5, .8, legend=c(names(list_degrees)[1], names(list_degrees)[2],
+                           names(list_degrees)[3], names(list_degrees)[4],
+                           names(list_degrees)[5]),
+       col=c(colourPalette[1], colourPalette[2],
+             colourPalette[3], colourPalette[4],
+             colourPalette[5]),
+       lty=1, cex=0.8)
+
 #############################################################
 # get forest plot for number of drawn concepts
 #> meta-analysis of means can be conducted using the metamean function
@@ -203,6 +212,45 @@ forest.meta(m.mean,
             print.tau2 = FALSE,
             leftlabs = c("Author", "g", "SE"))
 
+
+
+
+
+library(metafor)
+
+
+dat <- escalc(measure = "MN", mi = mean, sdi = sd, ni = n, data = out_metanalysis)
+res.r <- rma(yi, vi, data=dat)
+
+metafor::reporter(res.r)
+
+
+###################
+out_metanalysis <- out_metanalysis[out_metanalysis$CAMstudy != "Fenn et al. (2023)",]
+
+
+
+m.mean <- metamean(n = n,
+                   mean = mean,
+                   sd = sd,
+                   studlab = CAMstudy,
+                   data = out_metanalysis,
+                   sm = "MRAW",
+                   fixed = FALSE,
+                   random = TRUE,
+                   method.tau = "REML",
+                   hakn = TRUE,
+                   title = "Mean Number of Concepts")
+summary(m.mean)
+
+
+
+
+forest.meta(m.mean,
+            sortvar = TE,
+            prediction = TRUE,
+            print.tau2 = FALSE,
+            leftlabs = c("Author", "g", "SE"))
 
 
 
