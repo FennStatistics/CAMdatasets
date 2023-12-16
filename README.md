@@ -28,6 +28,14 @@ Data was analyzed by one software:
     - version 2.X: [link](https://fennapps.shinyapps.io/shinyCAMEL_v02/)
 
 
+## Meta-Analysis
+- [Meta-Analysis over 5 CAM studies](/metaAnalysis_Dissertation)
+    + first results were presented in dissertation; we will continued
+
+
+
+
+
 ## Acknowledgments
 
 CAM data was contributed by
