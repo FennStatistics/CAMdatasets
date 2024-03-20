@@ -13,9 +13,9 @@
 
 ## Files
 
-- [CAM raw data](/Stratospheric%20Aerosol%20Injection%20Multi%20Method%202022/raw%20data), JSON file can be analyzed using the CAM-App for example
-- [CAM pictures (.png, .svg)](/Stratospheric%20Aerosol%20Injection%20Multi%20Method%202022/CAMs%20pictures); .pngs created with R
-- all other files can be found on https://osf.io/zn7vy/
+- [CAM raw data](/S2%20soft%20robots%20compared%20to%20conventional%20robots/raw%20data), JSON file can be analyzed using the CAM-App for example
+- [CAM pictures (.png)](/S2%20soft%20robots%20compared%20to%20conventional%20robots/CAMs%20picture); .pngs created with R
+- all other files can be found on ...
 
 
 ## Abstracts
