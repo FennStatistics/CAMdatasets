@@ -13,14 +13,12 @@
 
 ## Files
 
-- [CAM raw data](/S2%20soft%20robots%20compared%20to%20conventional%20robots/raw%20data), JSON file can be analyzed using the CAM-App for example
-- [CAM pictures (.png, .json)](/S2%20soft%20robots%20compared%20to%20conventional%20robots/CAMs%20picture); divided for USA, Germany; .pngs created with R; .json can be uploaded to C.A.M.E.L.
+- [CAM raw data](/Climate%20Change%20conspiracy%20beliefs/raw%20data), JSON file can be analyzed using the CAM-App for example
+- [CAM pictures (.png, .json)](/Climate%20Change%20conspiracy%20beliefs/CAMs%20picture); divided for USA, Germany; .pngs created with R; .json can be uploaded to C.A.M.E.L.
 - all other files can be found on ...
 
 
 ## Abstracts
-
-
 
 
 ## Literature
