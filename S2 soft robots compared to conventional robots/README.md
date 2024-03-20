@@ -14,7 +14,7 @@
 ## Files
 
 - [CAM raw data](/S2%20soft%20robots%20compared%20to%20conventional%20robots/raw%20data), JSON file can be analyzed using the CAM-App for example
-- [CAM pictures (.png)](/S2%20soft%20robots%20compared%20to%20conventional%20robots/CAMs%20picture); .pngs created with R
+- [CAM pictures (.png)](/S2%20soft%20robots%20compared%20to%20conventional%20robots/CAMs%20picture); divided in pre / post CAMs; .pngs created with R
 - all other files can be found on ...
 
 
