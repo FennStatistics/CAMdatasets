@@ -24,13 +24,14 @@ Data was collected using two softwares:
 
 Data was analyzed by one software:
 - CAM-App, links to
-    - version 1.X: [link](https://fennapps.shinyapps.io/shinyCAMELv01/)
-    - version 2.X: [link](https://fennapps.shinyapps.io/shinyCAMEL_v02/)
+    - version 1.X: **deprecated**
+    - version 2.X: [link](https://fennapps.shinyapps.io/CAMtools_CAMapp/)
 
 
 ## Meta-Analysis
 - [Meta-Analysis over 5 CAM studies](/metaAnalysis_Dissertation)
-    + first results were presented in dissertation; we will continued
+    + first results were presented in dissertation
+    + and in diss defence; we will continued
 
 
 
@@ -39,6 +40,9 @@ Data was analyzed by one software:
 ## Acknowledgments
 
 CAM data was contributed by
-- Lisa Reuter (<lisa.reuter@fribis.uni-freiburg.de>)
+- Michael Gorki (<michael.gorki@livmats.uni-freiburg.de>)
+- Nina Frings (<nina.frings@unibas.ch>)
+- Louisa Estadieu (<louisa.estadieu@philosophie.uni-freiburg.de>)
+- Lisa Reuter (<lisa.reuter@psychologie.uni-freiburg.de>)
 - Wilhelm Gros (<wilhelm.gros@livmats.uni-freiburg.de>)
 - Julius Fenn (<julius.fenn@psychologie.uni-freiburg.de>)
