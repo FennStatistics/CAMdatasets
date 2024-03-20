@@ -37,7 +37,14 @@ for(f in files_xlsx){
 
   list_NetworkParams[[tmp_name]] <- tmp_dat
 
+
   tmp_dat$group <- tmp_name
+
+  if("X." %in% colnames(tmp_dat)){
+    tmp_dat$X. <- NULL
+  }
+
+
   if(h==1){
     allstudies <- tmp_dat
   }else{
